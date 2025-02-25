@@ -1,0 +1,2264 @@
+id,investorName,investorType,city,country,sectors,stages
+1,212,unknown,istanbul,turkey,saas,seed
+2,2048 ventures,unknown,new york,usa,"aerospace, biotech, healthtech, propertytech","pre-seed, seed"
+3,205 capital,venture capital,menlo park,usa,cybersecurity,series b
+4,3gp capital,unknown,unknown,canada,media,seed
+5,3l capital,unknown,los angeles,usa,saas,series b
+6,468 capital,venture capital,unknown,germany,ai,seed
+7,500 startups,"accelerator, venture capital",san francisco,usa,"edtech, fintech, insurtech, logisticstech, marketplace, propertytech, robotics, saas, ecommerce","pre-seed, seed, series a, series b, series d"
+8,7 gate ventures,venture capital,vancouver,canada,adtech,pre-seed
+9,7wire ventures,"micro vc, venture capital",chicago,usa,healthtech,series b
+10,8vc,venture capital,san francisco,usa,"autotech, biotech","seed, series a"
+11,a.capital ventures,venture capital,menlo park,usa,blockchain,series b
+12,a/o proptech,venture capital,london,united kingdom,ai,series a
+13,a16z crypto,venture capital,menlo park,usa,blockchain,unknown
+14,aaron gordon,angel,unknown,usa,blockchain,series b
+15,aaron henshaw,unknown,brooklyn,usa,blockchain,seed
+16,ac capital,venture capital,unknown,china,fintech,seed
+17,accel,venture capital,palo alto,usa,"ai, cybersecurity","series a, series b, series c"
+18,accelerate fund,"angel group, micro vc",calgary,canada,"fintech, healthtech, saas, sportstech","pre-seed, series a"
+19,accelerator centre,accelerator,waterloo,canada,"agtech, biotech, data, fintech, martech, saas, ecommerce",seed
+20,accenture,unknown,dublin,ireland,"fintech, saas","series a, series b"
+21,accomplice,venture capital,cambridge,usa,"analytics, fintech, marketplace","seed, series a, series e"
+22,ace & company,unknown,geneva,switzerland,analytics,series c
+23,acrew capital,venture capital,palo alto,usa,ecommerce,series b
+24,active capital,"micro vc, venture capital",san antonio,usa,saas,seed
+25,active impact investments,venture capital,north vancouver,canada,"cleantech, saas","seed, series b"
+26,adam gross,unknown,san francisco,usa,saas,seed
+27,adam morley,angel,unknown,usa,biotech,unknown
+28,adams street partners,unknown,chicago,usa,"analytics, biotech","series b, series e"
+29,addition,"private equity firm, venture capital",new york,usa,"ai, devtech","series a, series b"
+30,advisors.fund,venture capital,san francisco,usa,saas,seed
+31,afore capital,"micro vc, venture capital",san francisco,usa,fintech,series a
+32,ag ventures,unknown,brooklyn,usa,blockchain,series c
+33,agriculture and agri-food canada,unknown,ottawa,canada,agtech,grant
+34,ajay shah,angel,unknown,usa,ai,seed
+35,alameda research,unknown,central and western,hong kong,blockchain,"seed, series a"
+36,alan howard,angel,unknown,unknown,fintech,"series a, series b"
+37,alarko ventures,venture capital,istanbul,turkey,healthtech,seed
+38,alate partners,venture capital,toronto,canada,"fitnesstech, marketplace, propertytech, saas, transportationtech","seed, series a"
+39,alchemist accelerator,accelerator,san francisco,usa,agtech,pre-seed
+40,aleph,venture capital,tel aviv,israel,marketplace,series b
+41,alex blikstad,angel,unknown,unknown,cryptocurrency,seed
+42,alex blum,unknown,new york,usa,saas,seed
+43,alex caruso,angel,unknown,unknown,blockchain,series c
+44,alexa accelerator,unknown,unknown,usa,edtech,seed
+45,alexis ohanian,unknown,san francisco,usa,fintech,"series a, series b"
+46,allegiscyber,venture capital,san francisco,usa,saas,series a
+47,allen miner,unknown,tokyo,japan,ai,seed
+48,allison pickens,unknown,san francisco,usa,ai,series a
+49,allogene therapeutics,unknown,unknown,usa,biotech,series a
+50,alphalab,accelerator,pittsburgh,usa,adtech,seed
+51,altair capital,"micro vc, venture capital",san francisco,usa,"marketplace, saas","pre-seed, seed, series b"
+52,alter ego capital,unknown,montreal,canada,agtech,series a
+53,alternative capital group,unknown,montreal,canada,platform,series a
+54,altonomy,unknown,singapore,singapore,blockchain,seed
+55,altos ventures,venture capital,menlo park,usa,fintech,series c
+56,alumni ventures group,"angel group, micro vc",manchester,usa,"analytics, fintech","pre-seed, seed"
+57,amaranthine,venture capital,san francisco,usa,insurtech,series a
+58,amazon alexa fund,"corporate venture capital, venture capital",seattle,usa,"ai, edtech","seed, series a"
+59,ambix life science fund i,unknown,unknown,usa,healthtech,series c
+60,ambria capital,venture capital,san juan,puerto rico,biotech,seed
+61,american express ventures,"corporate venture capital, venture capital",palo alto,usa,"fintech, saas","series c, series d"
+62,amorchem,venture capital,montreal,canada,biotech,seed
+63,amplify partners,venture capital,menlo park,usa,"cybersecurity, devtech","pre-seed, seed, series b"
+64,amplitude venture capital,venture capital,montreal,canada,biotech,"seed, series a, series c"
+65,andre drummond,angel,unknown,unknown,blockchain,series c
+66,andre iguodala,unknown,san francisco,usa,blockchain,"series b, series c"
+67,andreessen horowitz,venture capital,menlo park,usa,"blockchain, hrtech","series a, series b, series c, series d"
+70,anges quebec,angel group,quebec,canada,"ai, analytics, biotech, edtech, fintech, healthtech, legaltech, platform, ecommerce","pre-seed, seed, series a"
+71,animo ventures,venture capital,unknown,usa,"robotics, saas",seed
+72,ankr,unknown,san francisco,usa,cryptocurrency,unknown
+73,anthos capital,venture capital,menlo park,usa,saas,"series a, series b, series c"
+74,aphelion capital,unknown,mill valley,usa,healthtech,series a
+75,aqc capital,unknown,quebec,canada,"ai, analytics, biotech, healthtech, platform","pre-seed, seed"
+76,arati sharma,unknown,toronto,canada,edtech,seed
+77,arctern ventures,venture capital,toronto,canada,"agtech, greentech, propertytech, saas","series a, series b"
+78,arthur ventures,venture capital,minneapolis,usa,legaltech,series a
+79,artiman ventures,venture capital,palo alto,usa,saas,"series b, series c"
+80,ashton kutcher,unknown,los angeles,usa,blockchain,series c
+81,asu scaleu,accelerator,tempe,usa,edtech,seed
+82,atb financial,unknown,edmonton,canada,legaltech,series a
+83,athlete tech group,unknown,toronto,canada,martech,seed
+84,atrium capital,venture capital,menlo park,usa,edtech,seed
+85,au21 capital,venture capital,san francisco,usa,blockchain,pre-seed
+86,august capital,venture capital,menlo park,usa,media,seed
+87,aurora,unknown,mountain view,usa,autotech,series a
+88,autodesk,unknown,san rafael,usa,saas,unknown
+89,autonomous vehicle innovation network (avin),unknown,unknown,canada,iot,"grant, seed"
+90,avalanche,unknown,unknown,singapore,cryptocurrency,unknown
+91,axis capital ventures corp.,"micro vc, venture capital",unknown,canada,traveltech,seed
+92,backbone angels,angel group,toronto,canada,ai,seed
+93,badhouse ventures,"accelerator, incubator, micro vc, venture capital",vancouver,canada,"logisticstech, saas","pre-seed, seed"
+94,bain capital ventures,"corporate venture capital, venture capital",san francisco,usa,"hardware, insurtech, propertytech, robotics, saas","series a, series b"
+95,balaji srinivasan,unknown,san francisco bay area,usa,blockchain,seed
+96,bank of montreal (bmo),unknown,toronto,canada,fintech,series c
+97,banneker partners,unknown,san francisco,usa,fintech,series a
+98,barclays accelerator,unknown,unknown,usa,ai,pre-seed
+99,base10 partners,venture capital,san francisco,usa,healthtech,series a
+100,basecamp equity partners,unknown,boulder,usa,marketplace,series a
+101,battery ventures,venture capital,boston,usa,ai,series a
+102,baxter international,unknown,deerfield,usa,healthtech,series b
+103,bcf ventures,"corporate venture capital, micro vc, venture capital",montreal,canada,"analytics, healthtech, legaltech","seed, series a"
+104,bdc capital,venture capital,montreal,canada,"3dtech, ai, agtech, agrtech, analytics, autotech, biotech, biometrics, cleantech, consumer, cybersecurity, data, edtech, entertainmenttech, fintech, games, greentech, hrtech, hardware, healthtech, marketplace, misc, networks, platform, propertytech, robotics, robotis, saas, transportationtech, traveltech, ecommerce","pre-seed, seed, series a, series b, series c, series d, series e"
+105,bee partners,"micro vc, venture capital",san francisco,usa,ecommerce,series b
+106,benevolent capital,unknown,pacific palisades,usa,autotech,series a
+107,bertrand cesvet,unknown,montreal,canada,ai,seed
+108,bessemer venture partners,venture capital,redwood city,usa,"ai, data, devtech, saas","seed, series a, series b, series c"
+109,better tomorrow ventures,venture capital,san francisco,usa,insurtech,series a
+110,bettor capital,venture capital,unknown,usa,media,seed
+111,bezos expeditions,unknown,mercer island,usa,cleantech,series e
+112,binance,unknown,valletta,malta,cryptocurrency,unknown
+113,biotech insight ventures,unknown,pebble beach,usa,marketplace,series c
+114,birchmere ventures,unknown,pittsburgh,usa,"edtech, ecommerce","seed, series b, series c"
+115,bixin ventures,venture capital,unknown,usa,blockchain,seed
+116,blockchain founders fund,venture capital,singapore,singapore,platform,pre-seed
+117,blockchange ventures,venture capital,new york,usa,blockchain,series b
+118,blocktower capital,unknown,new york,usa,blockchain,series b
+119,bloom burton & co.,venture capital,toronto,canada,healthtech,series a
+120,blue cloud ventures,venture capital,new york,usa,"edtech, saas","series c, series d"
+121,bluesky equities,unknown,calgary,canada,"legaltech, saas, sportstech, iot","seed, series a"
+122,blumberg capital,venture capital,san francisco,usa,"cybersecurity, devtech, fintech, saas","seed, series c, series d"
+124,boldstart ventures,"micro vc, venture capital",new york,usa,ai,"series a, series b"
+125,bolt ventures,venture capital,são paulo,brazil,blockchain,series c
+126,boost vc,accelerator,san mateo,usa,quantum,seed
+127,boxgroup,"micro vc, venture capital",new york,usa,ai,"series a, series b"
+128,boxone ventures,unknown,montreal,canada,"agtech, biotech, platform","pre-seed, seed, series a"
+129,bp ventures,unknown,palo alto,usa,"analytics, cleantech",unknown
+130,braemar energy ventures,venture capital,new york,usa,cleantech,series e
+131,brandon chu,unknown,toronto,canada,edtech,seed
+132,brandon deer,unknown,boston,usa,ai,series a
+133,brandproject,venture capital,toronto,canada,"healthtech, marketplace","series a, series b"
+134,brett wilson,unknown,calgary,canada,adtech,seed
+135,breyer capital,unknown,menlo park,usa,fintech,series b
+136,brian thomas,angel,unknown,unknown,analytics,seed
+137,brick & mortar ventures,unknown,san francisco,usa,saas,series a
+138,brightspark ventures,venture capital,montreal,canada,"3dtech, agtech, biotech, cleantech, cybersecurity, edtech, martech, saas","pre-seed, seed, series a, series b"
+139,bryan rosenblatt,unknown,new york,usa,blockchain,series b
+140,bryker,unknown,toronto,canada,saas,seed
+141,buckley ventures,venture capital,san francisco,usa,ai,seed
+142,builders vc,"private equity firm, venture capital",san francisco,usa,"agtech, platform, saas","seed, series a"
+143,bullpen capital,venture capital,menlo park,usa,"data, edtech, saas","seed, series b, series c"
+144,burst capital,venture capital,palo alto,usa,ai,"series b, series c"
+145,business growth fund,"private equity firm, venture capital",london,united kingdom,analytics,unknown
+146,bvf partners,unknown,san francisco,usa,biotech,series a
+147,caisse de depot et placement du quebec,unknown,montreal,canada,"ai, cybersecurity, healthtech","series b, series c, series d"
+148,calvin ayre,angel,antigua and barbuda,unknown,marketplace,unknown
+149,cameron ventures,"corporate venture capital, family investment office, venture capital",unknown,usa,insurtech,series a
+150,canaan partners,venture capital,menlo park,usa,"marketplace, spacetech","series a, series b"
+151,canada pension plan investment board,unknown,toronto,canada,"ai, biotech, fintech, saas",series b
+152,canadian business growth fund,venture capital,toronto,canada,"analytics, edtech, fintech, hrtech, marketplace, saas, ecommerce","series a, series b, series c"
+153,canadian shield capital,unknown,toronto,canada,cleantech,series a
+154,candou ventures,venture capital,palo alto,usa,saas,series c
+155,caphorn invest,venture capital,paris,france,martech,series a
+156,capital one,unknown,mclean,usa,traveltech,series f
+157,capital6 eagle,venture capital,unknown,usa,blockchain,seed
+158,capitalt,unknown,amsterdam,the netherlands,saas,pre-seed
+159,capricorn investment group,unknown,palo alto,usa,ai,series b
+160,carbon direct,unknown,new york,usa,cleantech,series d
+161,casdin capital,unknown,new york,usa,biotech,series a
+162,castle island ventures,unknown,cambridge,usa,platform,pre-seed
+163,celtic house asia partners,venture capital,hangzhou,china,propertytech,seed
+164,celtic house venture partners,venture capital,toronto,canada,"consumer, propertytech, saas","seed, series b"
+165,centre for commercialization of regenerative medicine,unknown,unknown,canada,biotech,series a
+166,centre for drug research and development,unknown,vancouver,canada,biotech,unknown
+167,cfv ventures,unknown,charlotte,usa,fintech,pre-seed
+168,chain capital,venture capital,shanghai,china,fintech,seed
+169,charlie songhurst,unknown,greater seattle area,usa,"logisticstech, martech, saas",seed
+170,chart industries,unknown,ohio city,usa,cleantech,series d
+171,cherif habib,unknown,montreal,canada,fintech,seed
+172,chevron technology ventures,"corporate venture capital, venture capital",houston,usa,cleantech,series d
+173,chicago archangels,unknown,chicago,usa,ecommerce,pre-seed
+174,china canada angel alliance,angel group,unknown,canada,ai,seed
+175,chorus one,unknown,rockville,usa,cryptocurrency,unknown
+176,christian martinez,angel,united states,unknown,fintech,series c
+177,christian sullivan,unknown,new york,usa,ecommerce,series a
+178,chrysalix venture capital,venture capital,vancouver,canada,"analytics, biotech, cleantech","seed, series a, series d, series e"
+179,ci financial,unknown,toronto,canada,fintech,series a
+181,citi ventures,"corporate venture capital, venture capital",san francisco,usa,"fintech, saas, traveltech, ecommerce","series a, series c, series d, series f"
+182,claridge,unknown,montreal,canada,"cybersecurity, ecommerce",series c
+183,clocktower technology ventures,"micro vc, venture capital",santa monica,usa,"fintech, insurtech","series a, series b"
+184,cms holdings,unknown,unknown,usa,blockchain,"pre-seed, seed"
+185,cmt digital ventures,venture capital,chicago,usa,"blockchain, fintech","seed, series a, series b"
+186,coatue,unknown,new york,usa,"blockchain, robotics","series b, series c, series d"
+187,codename ventures,unknown,boston,usa,saas,seed
+188,coelius capital,unknown,san francisco,usa,consumer,pre-seed
+189,coinbase ventures,unknown,san francisco,usa,"blockchain, cryptocurrency, fintech","seed, series a, series b"
+190,coinfund,unknown,brooklyn,usa,fintech,series a
+191,coingeek,unknown,montreal,canada,marketplace,unknown
+192,coinshares,"hedge fund, private equity firm, venture capital",london,united kingdom,cryptocurrency,seed
+193,columbus capital,"private equity firm, venture capital",freeport,bahamas,retailtech,seed
+194,comcast ventures,"corporate venture capital, venture capital",san francisco,usa,robotics,series b
+195,compound,venture capital,new york,usa,blockchain,seed
+196,conconi growth partners,venture capital,vancouver,canada,"3dtech, fintech, legaltech, marketplace, traveltech","seed, series a"
+197,connecticut innovations,unknown,rocky hill,usa,"analytics, biometrics, healthtech","pre-seed, series b"
+198,consensys,unknown,zug,switzerland,"blockchain, fintech","pre-seed, seed"
+199,construct capital,venture capital,washington,usa,iot,seed
+200,contour venture partners,"micro vc, venture capital",new york,usa,fintech,series c
+201,converge,venture capital,cambridge,usa,"martech, ecommerce",seed
+202,cooley,unknown,palo alto,usa,fintech,series a
+203,corbin kempenaar,angel,bc,canada,ecommerce,pre-seed
+204,costanoa ventures,venture capital,palo alto,usa,spacetech,series b
+205,cqdm,unknown,montreal,canada,biotech,"seed, series a"
+206,cr capital management,venture capital,beijing,china,biotech,series a
+207,craig miller,unknown,toronto,canada,platform,seed
+209,creative ventures,venture capital,san francisco,usa,saas,series a
+210,crédit mutuel equity,unknown,paris,france,"ai, fintech, iot",unknown
+211,crest rock partners,unknown,denver,usa,martech,unknown
+212,cristofoli contracting,unknown,unknown,canada,cryptocurrency,seed
+213,crosslink capital,venture capital,san francisco,usa,"ai, healthtech",series a
+214,curtis christophersen,angel,unknown,unknown,martech,seed
+215,cyber mentor fund,venture capital,san mateo,usa,cybersecurity,"series a, series b"
+216,cycle capital,unknown,montreal,canada,"propertytech, transportationtech","series a, series b"
+217,d64 ventures,venture capital,unknown,canada,cryptocurrency,unknown
+218,daniel debow,unknown,toronto,canada,ai,seed
+219,daniel dines,unknown,dover,usa,ai,series a
+220,darrell kopke,unknown,vancouver,canada,fitnesstech,seed
+221,darrow holdings,unknown,unknown,canada,fintech,seed
+222,dash40 ventures,"micro vc, venture capital",toronto,canada,"fintech, saas",seed
+223,david hahn,unknown,new york,usa,saas,seed
+224,david yaffe,unknown,new york,usa,saas,seed
+225,dcode,"accelerator, venture capital",washington,usa,cybersecurity,series b
+226,dean bakes,angel,unknown,unknown,ecommerce,series a
+227,decheng capital,venture capital,menlo park,usa,healthtech,series a
+228,decibel partners,venture capital,palo alto,usa,cybersecurity,series b
+229,deepcore,unknown,tokyo,japan,3dtech,seed
+230,deerfield,unknown,unknown,usa,healthtech,series a
+231,deerfield management,venture capital,new york,usa,healthtech,series a
+232,defiance capital,venture capital,singapore,singapore,"blockchain, fintech","seed, series a"
+233,delphi ventures,venture capital,san mateo,usa,cryptocurrency,unknown
+234,derrick favors,angel,unknown,unknown,martech,seed
+235,derrick hunter,unknown,calgary,canada,fintech,unknown
+236,desjardins capital,unknown,quebec,canada,"3dtech, ai, cybersecurity, fintech, healthtech, insurtech, legaltech, martech, marketplace, propertytech, saas, analytics","seed, series a, series b, series c"
+239,devin mccourty,angel,unknown,unknown,blockchain,series c
+240,diagram ventures,"micro vc, venture capital",montreal,canada,"fintech, insurtech, platform, saas","seed, series a, series b"
+241,differential ventures,venture capital,new york,usa,"ai, cybersecurity, edtech, quantum","pre-seed, seed"
+242,digital currency group,venture capital,new york,usa,blockchain,seed
+243,digital technology supercluster,unknown,vancouver,canada,"foodtech, networks",seed
+244,disruption ventures,venture capital,toronto,canada,saas,seed
+245,disruptive technology advisers,"investment bank, venture capital",los angeles,usa,cleantech,series e
+246,distributed global,venture capital,los angeles,usa,"blockchain, fintech","series a, series b"
+247,district ventures capital,venture capital,calgary,canada,"fintech, ecommerce",series a
+248,divergence ventures,venture capital,unknown,usa,blockchain,"pre-seed, series a"
+249,dk metcalf,angel,unknown,unknown,blockchain,series c
+250,dlf group,unknown,unknown,india,cleantech,series e
+251,dmz,"accelerator, incubator",toronto,canada,"ai, adtech, edtech, healthtech, propertytech, saas, ecommerce","pre-seed, seed"
+252,domantas sabonis,angel,unknown,unknown,blockchain,series c
+253,draper university ventures,venture capital,san mateo,usa,agtech,seed
+254,dreamers vc,venture capital,los angeles,usa,blockchain,series c
+255,drew green,unknown,vancouver,canada,edtech,seed
+256,drive capital,venture capital,columbus,usa,"ai, data, fintech, insurtech, saas","seed, series b, series c"
+257,dunamu & partners,venture capital,seoul,south korea,fintech,series a
+258,e-fund,unknown,vancouver,canada,fintech,seed
+259,eclipse ventures,"private equity firm, venture capital",palo alto,usa,"hardware, platform","series b, series c"
+260,ecofuel,accelerator,montreal,canada,"agtech, greentech, martech","pre-seed, series a, series b"
+261,ecofuel fund,venture capital,unknown,canada,marketplace,seed
+262,ecor1 capital,"private equity firm, venture capital",san francisco,usa,biotech,series a
+263,edc capital,unknown,unknown,canada,marketplace,series b
+264,edison partners,venture capital,princeton,usa,"cybersecurity, fintech",unknown
+265,educational testing service (ets),unknown,princeton,usa,saas,series c
+266,edulab capital partners,venture capital,boston,usa,edtech,seed
+267,elrond,unknown,sibiu,romania,cryptocurrency,unknown
+268,emanuel pleitez,unknown,los angeles,usa,saas,seed
+269,emergence,venture capital,san mateo,usa,"edtech, fintech","series b, series c, series d"
+270,emergent medical associates,unknown,manhattan beach,usa,healthtech,seed
+271,entangled group,unknown,san francisco,usa,edtech,seed
+272,entrée capital,venture capital,london,united kingdom,fintech,series a
+273,entrepreneurs fund,venture capital,london,united kingdom,cleantech,series e
+274,envestors,angel group,london,united kingdom,fintech,series c
+275,eonxi,venture capital,miami,usa,blockchain,series b
+276,epic cg,unknown,unknown,canada,platform,series c
+277,epic games,unknown,cary,usa,ai,pre-seed
+278,epic ventures,venture capital,salt lake city,usa,fintech,series b
+279,equitable bank,venture capital,toronto,canada,fintech,series c
+280,eric kwan,unknown,san francisco,usa,ai,pre-seed
+281,esas ventures,venture capital,istanbul,turkey,healthtech,seed
+282,esplanade ventures,venture capital,montreal,canada,"ai, healthtech","seed, series a"
+283,espresso capital,unknown,toronto,canada,"saas, ecommerce",series b
+284,etw,unknown,unknown,canada,edtech,series c
+285,even odds investments,unknown,unknown,canada,media,seed
+286,eversource energy,unknown,hartford,usa,cleantech,unknown
+287,evok innovations,venture capital,vancouver,canada,"saas, iot","series a, series b"
+288,excel venture management,venture capital,boston,usa,healthtech,series b
+289,expa,accelerator,san francisco,usa,"cybersecurity, hrtech","pre-seed, series b"
+290,expansion venture capital,"micro vc, venture capital",new york,usa,iot,seed
+291,export development canada,unknown,ottawa,canada,"ai, analytics, biotech, cleantech, consumer, hardware, healthtech, martech, saas, agtech, ecommerce, iot","seed, series a, series b, series c, series d"
+292,extreme venture partners,"accelerator, venture capital",toronto,canada,"analytics, insurtech","seed, series a"
+293,f-prime capital,venture capital,cambridge,usa,healthtech,"series a, series b"
+294,f7 ventures,"micro vc, venture capital",san francisco,usa,healthtech,seed
+295,facit,venture capital,toronto,canada,biotech,"seed, series b"
+296,factory llc,venture capital,bethlehem,usa,marketplace,series b
+297,fair ventures,unknown,toronto,canada,marketplace,series a
+298,farhan thawar,unknown,toronto,canada,"edtech, marketplace",seed
+299,fastbreak ventures,venture capital,toronto,canada,"ai, fintech",seed
+300,fd7 ventures,venture capital,unknown,dubai,fintech,unknown
+301,feddev,unknown,waterloo,canada,saas,unknown
+302,fei-fei li,unknown,stanford,usa,autotech,series a
+303,fenbushi capital,"micro vc, venture capital",shanghai,china,blockchain,seed
+304,fidelity,unknown,unknown,usa,"biotech, cryptocurrency, edtech, fintech, platform, saas","seed, series a, series c, series d"
+306,figment,unknown,new york,usa,cryptocurrency,unknown
+307,fintop capital,venture capital,nashville,usa,"cybersecurity, fintech",series a
+308,first ascent ventures,venture capital,toronto,canada,"analytics, fintech, healthtech","series a, series b"
+309,first star ventures,"micro vc, venture capital",boston,usa,"ai, biotech","pre-seed, series a"
+310,firstmark,venture capital,new york,usa,ai,"series b, series c"
+311,fj labs,"micro vc, venture capital",new york,usa,"fintech, marketplace, propertytech, ecommerce","series a, series b"
+312,florida funders,unknown,tampa,usa,saas,seed
+313,fondation montréal,unknown,montreal,canada,ai,grant
+314,fonds de solidarité ftq,venture capital,montreal,canada,"ai, adtech, analytics, biotech, cybersecurity, entertainmenttech","seed, series a, series b, series c"
+315,fonds innovexport,venture capital,quebec,canada,"ai, healthtech",series a
+316,food foundry,unknown,chicago,usa,propertytech,pre-seed
+317,forage capital partners,unknown,calgary,canada,"agtech, ecommerce",series a
+318,forerunner ventures,venture capital,san francisco,usa,"marketplace, robotics, ecommerce","series a, series b, series e, series f"
+319,forum ventures,"accelerator, venture capital",new york,usa,"ai, devtech, hrtech, logisticstech, saas","pre-seed, seed"
+320,foundation capital,venture capital,palo alto,usa,analytics,series e
+321,founderfuel,accelerator,montreal,canada,"fintech, fitnesstech, hardware, legaltech, propertytech, saas, traveltech","pre-seed, seed"
+322,founders circle capital,venture capital,san francisco,usa,fintech,series c
+323,framework venture partners,venture capital,vancouver,canada,"edtech, marketplace, saas, traveltech, ecommerce","seed, series a, series b, series c"
+324,framework ventures,venture capital,san francisco,usa,"fintech, games","seed, series a"
+325,francois arbour,angel,unknown,unknown,"agtech, fintech","seed, series a"
+326,frank hinek,angel,unknown,unknown,cryptocurrency,seed
+327,frank palmer,unknown,vancouver,canada,adtech,seed
+328,frenchfounders,unknown,new york,usa,saas,seed
+329,freycinet ventures,venture capital,toronto,canada,"saas, iot",series a
+330,front row ventures,venture capital,montreal,canada,"autotech, biotech, fintech, heatlhtech, nanotech, saas","pre-seed, seed, series a"
+331,fuel ventures,"micro vc, venture capital",london,united kingdom,martech,seed
+332,full in partners,unknown,new york,usa,"healthtech, ecommerce",series b
+333,fulmer capital partners,unknown,vancouver,canada,saas,pre-seed
+334,future ventures,venture capital,san francisco,usa,biotech,series c
+335,gabriel leydon,unknown,san francisco,usa,ai,seed
+336,game seer venture partners,"venture capital, venture debt",aschaffenburg,germany,esports,seed
+337,garage capital,venture capital,waterloo,canada,"agtech, analytics, biotech, cleantech, consumer, data, devtech, edtech, fintech, insurtech, marketplace, misc, nanotech, saas, ecommerce","pre-seed, seed, series a, series c, series d"
+338,garrett temple,angel,unknown,unknown,blockchain,series b
+339,gemini waghmare,unknown,toronto,canada,retailtech,seed
+340,general atlantic,unknown,new york,usa,saas,series c
+341,generation investment management,unknown,london,united kingdom,healthtech,series d
+342,generation ventures,"corporate venture capital, fund of funds, venture capital",toronto,canada,"ai, analytics, cybersecurity, edtech, legaltech, saas","seed, series a, series b"
+343,genesis block ventures (gbv),"incubator, venture capital",grand cayman,cayman islands,cryptocurrency,seed
+344,genesys capital,venture capital,toronto,canada,"biotech, healthtech","seed, series a, series b"
+345,geoffrey hinton,unknown,toronto,canada,autotech,series a
+346,georgian,venture capital,toronto,canada,"ai, cybersecurity, edtech, martech, marketplace, quantum, robotics, saas","series a, series b, series c, series d, series e"
+347,ggv capital,venture capital,menlo park,usa,robotics,series b
+348,gic,"private equity firm, venture capital",singapore,singapore,"blockchain, cleantech","series d, series e"
+349,giga investments corp,unknown,unknown,usa,cleantech,seed
+350,gimv,"private equity firm, venture capital",antwerpen,belgium,cleantech,series e
+351,global founders capital,venture capital,berlin,germany,"ai, biotech, devtech, edtech, fintech, healthtech, martech, marketplace, misc, saas","seed, series a, series b"
+352,global health sciences venture fund,unknown,vancouver,canada,healthtech,series a
+353,global reserve group,venture capital,quaker street,usa,analytics,series a
+354,globalive capital,venture capital,toronto,canada,"biotech, edtech, hardware, healthtech, saas","pre-seed, seed"
+355,goeasy,unknown,mississauga,canada,fintech,series b
+356,gokul rajaram,unknown,san francisco,usa,platform,seed
+357,golden triangle angel network,angel group,cambridge,canada,"ai, edtech, healthtech",seed
+358,golden ventures,"micro vc, venture capital",toronto,canada,"ai, analytics, autotech, biotech, blockchain, consumer, data, devtech, edtech, fintech, healthtech, marketplace, platform, propertytech, saas, ecommerce","pre-seed, seed, series a, series b"
+359,goldman sachs asset management,unknown,new york,usa,analytics,series e
+360,good news ventures,venture capital,toronto,canada,"ai, cryptocurrency, legaltech, martech, platform, propertytech, saas, traveltech","pre-seed, seed"
+361,gordon cameron,unknown,calgary,canada,fintech,pre-seed
+362,government of canada,unknown,gatineau,canada,"propertytech, saas",pre-seed
+363,government of ontario,unknown,toronto,canada,robotics,grant
+364,gp ventures,venture capital,illinois city,usa,martech,seed
+365,gradient ventures,venture capital,mountain view,usa,"ai, healthtech","series a, series b"
+366,grand ventures,"micro vc, venture capital",grand rapids,usa,data,"seed, series a"
+367,granicus group,venture capital,montreal,canada,saas,seed
+368,graph ventures,"micro vc, venture capital",palo alto,usa,edtech,seed
+369,gravitas securities,unknown,toronto,canada,"fintech, healthtech","seed, series a"
+370,green egg ventures,venture capital,new york,usa,"devtech, quantum",seed
+371,greenfield one,venture capital,berlin,germany,blockchain,series b
+372,greensky capital,unknown,toronto,canada,"ai, cybersecurity, fintech, healthtech, martech, saas",seed
+373,greenspring associates,"fund of funds, secondary purchaser, venture capital",owings mills,usa,ai,series b
+374,greg malpass,unknown,vancouver,canada,fitnesstech,seed
+375,greg rudin,unknown,san francisco,usa,ecommerce,series a
+376,greylock,venture capital,menlo park,usa,marketplace,series c
+377,grishin robotics,venture capital,menlo park,usa,saas,seed
+378,groundbreak ventures,venture capital,toronto,canada,"analytics, propertytech",series a
+379,gs growth,unknown,new york,usa,"fintech, traveltech","series c, series f"
+380,gsv ventures,venture capital,san francisco,usa,edtech,seed
+381,gv,"corporate venture capital, venture capital",mountain view,usa,"blockchain, cybersecurity","series b, series d"
+382,h venture partners,venture capital,cincinnati,usa,healthtech,series a
+383,hack vc,venture capital,san francisco,usa,fintech,series a
+384,harbinger ventures,unknown,boulder,usa,ecommerce,series a
+385,harbourvest partners,unknown,boston,usa,"fintech, saas",series b
+386,hard money collective,angel group,unknown,unknown,cryptocurrency,seed
+387,harlo equity partners,unknown,toronto,canada,"ai, videotech","seed, series a"
+388,harmonic growth partners,venture capital,chevy chase,usa,"edtech, saas","series c, series d"
+389,harmony partners,venture capital,new york,usa,cybersecurity,series c
+390,harry stebbings,unknown,london,united kingdom,ai,series a
+391,hashed,venture capital,seoul,south korea,"cryptocurrency, fintech","series a, series b"
+392,hax,accelerator,san francisco,usa,"foodtech, robotics",seed
+393,heal capital,venture capital,berlin,germany,ai,seed
+394,health canada,unknown,ottawa,canada,pharmaceutical,grant
+395,heavybit,"accelerator, venture capital",california,usa,cybersecurity,"seed, series a"
+396,hedgewood,unknown,toronto,canada,"marketplace, saas","seed, series a"
+397,heron rock fund,venture capital,ottawa,canada,"cybersecurity, saas","seed, series a"
+398,hevella capital,venture capital,hamburg,germany,quantum,seed
+399,high park angels,"micro vc, venture capital",toronto,canada,"ai, batterytech, propertytech, robotics, saas","pre-seed, seed"
+400,highland capital partners,venture capital,palo alto,usa,fintech,"series b, series c"
+401,highline beta,"accelerator, incubator, venture capital",toronto,canada,"fintech, insurtech, iot","seed, series b"
+402,hike ventures,venture capital,san francisco,usa,"analytics, foodtech, healthtech","seed, series a"
+403,homebrew,"micro vc, venture capital",san francisco,usa,platform,"seed, series a"
+404,honeywell,unknown,morristown,usa,"cleantech, robotics","series b, series c"
+405,hudson valley equity group,unknown,nyack,usa,saas,seed
+406,huobi,unknown,beijing,china,blockchain,seed
+407,hustle fund,unknown,san carlos,usa,"ai, fintech, marketplace, propertytech","pre-seed, seed"
+408,hyde park venture partners,venture capital,chicago,usa,ecommerce,series a
+409,hypersphere ventures,unknown,florida,usa,"blockchain, cryptocurrency","pre-seed, seed, series a"
+410,ia financial group,venture capital,quebec,canada,fintech,series c
+411,ia ventures,venture capital,new york,usa,spacetech,series b
+412,ibx,venture capital,rockville,usa,cleantech,series e
+413,icm asset management,unknown,munich,germany,healthtech,series a
+414,iconiq capital,"family investment office, private equity firm, venture capital",san francisco,usa,fintech,unknown
+415,ideal ventures,unknown,unknown,canada,edtech,"seed, series a"
+416,igan partners,unknown,toronto,canada,"fintech, healthtech, ecommerce","pre-seed, seed, series a"
+417,illuminate financial,venture capital,london,united kingdom,"ai, fintech",series a
+418,impact engine,"micro vc, private equity firm, venture capital",chicago,usa,"fintech, hrtech","seed, series c"
+419,impression ventures,"micro vc, venture capital",toronto,canada,"fintech, platform","seed, series a, series b"
+420,in-q-tel,unknown,arlington,usa,ai,series b
+421,index ventures,venture capital,san francisco,usa,"ai, edtech, saas","series a, series c, series d"
+422,indiebio,accelerator,san francisco,usa,"agtech, biotech","pre-seed, seed"
+423,inflection ventures,"angel group, venture capital",singapore,singapore,blockchain,seed
+424,information venture partners,unknown,toronto,canada,"ai, fintech, insurtech, saas","series a, series b, series c"
+425,initialized capital,venture capital,san francisco,usa,"blockchain, cryptocurrency",seed
+426,innospark ventures,unknown,boston,usa,ai,"seed, series a"
+427,innovate bc,accelerator,vancouver,canada,"biotech, saas",grant
+429,innovation grade capital,"micro vc, venture capital",unknown,canada,saas,"seed, series a"
+430,innovation works,unknown,pittsburgh,usa,adtech,seed
+431,innovobot,unknown,montreal,canada,ai,seed
+432,inovia capital,venture capital,montreal,canada,"analytics, cybersecurity, data, devtech, edtech, fintech, healthtech, marketplace, platform, saas, traveltech, ecommerce","seed, series a, series b, series c, series d, series f"
+433,insight partners,"private equity firm, venture capital",new york,usa,"ai, data, martech, saas","series a, series b"
+434,insite,unknown,unknown,usa,saas,seed
+435,inspired capital partners,venture capital,new york,usa,analytics,seed
+436,intel capital,"corporate venture capital, venture capital",santa clara,usa,"ai, platform","seed, series a, series b"
+437,intergen,unknown,calgary,canada,"saas, iot",series a
+438,intergen capital,venture capital,calgary,canada,"healthtech, legaltech, sportstech",series a
+439,inveready,unknown,barcelona,spain,biotech,series a
+440,investissement quebec,unknown,unknown,canada,"ai, adtech, agtech, cleantech, edtech, fintech, healthtech, insurtech, martech, quantum, saas","seed, series a, series b, series c, series d"
+441,investment group of santa barbara,venture capital,santa barbara,usa,insurtech,series a
+442,ivan yuen,unknown,toronto,canada,edtech,seed
+443,ivp (institutional venture partners),venture capital,menlo park,usa,edtech,series c
+444,jack newton,unknown,vancouver,canada,legaltech,series a
+445,jacky chen,angel,canada,unknown,"consumer, healthtech, networks","pre-seed, seed"
+446,james lochrie,unknown,calgary,canada,fintech,pre-seed
+447,jason maguire,angel,unknown,unknown,edtech,seed
+448,jason mccourty,angel,unknown,unknown,blockchain,series c
+449,jason robins,unknown,boston,usa,martech,seed
+450,javale mcgee,angel,unknown,unknown,blockchain,"series b, series c"
+451,jay deen,unknown,toronto,canada,retailtech,seed
+452,jds sports,unknown,new york,usa,media,seed
+453,jean-françois grenon,unknown,paris,france,agtech,series a
+454,jeff b. smith,unknown,toronto,canada,retailtech,seed
+455,jez san,unknown,london,united kingdom,platform,seed
+456,jiaona zhang,unknown,san francisco,usa,saas,seed
+457,jim payne,unknown,new york,usa,saas,seed
+458,jmi equity,unknown,baltimore,usa,saas,series c
+459,joe lallouz,unknown,brooklyn,usa,blockchain,seed
+460,john currie,unknown,vancouver,canada,fitnesstech,seed
+461,john pfeffer,angel,unknown,unknown,fintech,"series a, series b"
+462,jonathan bixby,unknown,vancouver,canada,saas,seed
+463,jonathan wasserstrum,unknown,greater new york area,north america,"saas, ecommerce",seed
+464,jones boys ventures,unknown,texas,usa,propertytech,series a
+465,jordan armand matthews,angel,unknown,unknown,blockchain,series c
+466,josh hart,angel,unknown,unknown,blockchain,series c
+467,joshua browder,unknown,palo alto,usa,saas,pre-seed
+468,journey ventures,venture capital,tel aviv,israel,marketplace,series b
+469,juan carlos mas,unknown,wilson,usa,marketplace,series a
+470,k3 ventures,"micro vc, private equity firm, venture capital",singapore,singapore,ecommerce,series c
+471,kain warwick,unknown,sydney,australia,fintech,series a
+472,kamunting street capital,unknown,unknown,usa,blockchain,seed
+473,kcpl,unknown,unknown,canada,robotics,series b
+474,keiretsu forum,"angel group, venture capital",san francisco,usa,"ai, hardware",seed
+475,ken crawley,angel,unknown,unknown,blockchain,series c
+476,kensington capital partners limited,"private equity firm, venture capital",toronto,canada,"analytics, fintech","seed, series b, series c"
+477,kernel capital,venture capital,cork,ireland,fintech,seed
+478,kevin breay,angel,unknown,unknown,fintech,series c
+479,kevin durant,unknown,oakland,usa,blockchain,series c
+480,kevin shaw,angel,unknown,unknown,cryptocurrency,seed
+481,khazanah nasional,unknown,kuala lumpur,malaysia,cleantech,series e
+482,khosla ventures,venture capital,menlo park,usa,"3dtech, autotech, biotech, edtech, martech, marketplace","seed, series a, series c, series e, series f"
+483,khris middleton,angel,unknown,unknown,blockchain,series c
+484,kindred ventures,venture capital,san francisco,usa,consumer,pre-seed
+485,kingsway capital,venture capital,london,united kingdom,fintech,"seed, series a, series b"
+486,kirsten chapman,unknown,toronto,canada,retailtech,seed
+487,klass capital,unknown,toronto,canada,"healthtech, saas","seed, series b, series d"
+488,klay thompson,angel,unknown,unknown,blockchain,series c
+489,kronos research,unknown,taipei,taiwan,blockchain,seed
+490,kyle kuzma,angel,unknown,unknown,martech,seed
+491,kyle lowry,angel,unknown,unknown,blockchain,series c
+492,l. daniel wilson,angel,canada,unknown,healthtech,pre-seed
+493,l1 digital,"fund of funds, venture capital",zürich,switzerland,blockchain,series b
+494,lachy groom,unknown,san francisco bay area,usa,ai,series b
+495,lalotte ventures,venture capital,montreal,canada,ai,seed
+496,launch ny,unknown,buffalo,usa,propertytech,seed
+497,launchhouse,"accelerator, co-working space",highland,usa,ai,seed
+498,leaders fund,unknown,toronto,canada,"3dtech, ai, edtech","series b, series d"
+499,ledgerprime,unknown,miami,usa,blockchain,seed
+500,lerer hippeau,venture capital,new york,usa,"cybersecurity, fintech","seed, series c"
+501,level equity management,unknown,new york,usa,ecommerce,series b
+502,level one fund,venture capital,unknown,usa,ai,pre-seed
+503,lewis & clark ventures,unknown,st louis,usa,agtech,series a
+504,libertus capital,venture capital,london,united kingdom,fintech,series a
+505,liberty mutual insurance,unknown,boston,usa,fintech,series a
+506,liil ventures,venture capital,ciudad de león,mexico,platform,seed
+507,lion capital,unknown,london,united kingdom,ecommerce,series b
+508,liquid 2 ventures,"micro vc, venture capital",san francisco,usa,"platform, saas",seed
+509,longbow capital,"private equity firm, venture capital",calgary,canada,saas,series b
+510,longitude capital,venture capital,menlo park,usa,biotech,series a
+511,longliv ventures,venture capital,herzliya,israel,healthtech,series a
+512,luge capital,venture capital,montreal,canada,"cybersecurity, fintech, healthtech, insurtech, platform, saas","seed, series a, series b"
+513,luma launch,"accelerator, corporate venture capital, venture capital",santa monica,usa,edtech,unknown
+514,lumira ventures,venture capital,toronto,canada,biotech,"seed, series a"
+515,lyra growth partners,venture capital,vancouver,canada,ecommerce,series a
+516,m-tech innovations,unknown,calgary,canada,analytics,seed
+517,m12 - microsoft's venture fund,unknown,san francisco,usa,"ai, cybersecurity","series a, series b"
+518,magnetic ventures,venture capital,unknown,usa,biotech,series c
+519,makers fund,venture capital,unknown,usa,analytics,unknown
+520,malcolm jenkins,unknown,philadelphia,usa,blockchain,series c
+521,mantella venture partners,unknown,toronto,canada,"edtech, healthtech, propertytech, saas, ecommerce","seed, series a"
+522,mantis venture capital,venture capital,los angeles,usa,ai,series a
+523,manulife capital,unknown,toronto,canada,saas,series a
+524,manulife financial,"investment bank, venture capital",toronto,canada,fintech,"series b, series e"
+525,maple leaf angels,angel group,toronto,canada,"edtech, healthtech, heatlhtech, propertytech, retailtech, saas","pre-seed, seed"
+526,maple vc,unknown,san francisco,usa,"fintech, saas, iot","seed, series a"
+527,marc alloul,unknown,montreal,canada,fintech,series b
+528,mark cuban,unknown,dallas,usa,blockchain,seed
+529,mark jaine,unknown,toronto,canada,saas,seed
+530,mark morin,angel,unknown,unknown,cybersecurity,pre-seed
+531,maroc numeric fund,venture capital,casablanca,morocco,fintech,series a
+532,mars investment accelerator fund,venture capital,toronto,canada,"ai, biotech, cleantech, cybersecurity, edtech, fintech, healthtech, martech, propertytech, saas, ecommerce, iot","pre-seed, seed, series a"
+533,matjažek horne,angel,unknown,unknown,cryptocurrency,seed
+534,matt wyndowe,unknown,san francisco,usa,edtech,seed
+535,maven 11 capital,venture capital,amsterdam,the netherlands,fintech,series a
+536,mbx capital,venture capital,new york,usa,biotech,series a
+537,mcrock capital,venture capital,toronto,canada,"ai, analytics, biometrics, robotics, saas","series a, series b, series c"
+538,mechanism capital,venture capital,unknown,usa,"blockchain, metaverse",seed
+539,medteq+,unknown,montreal,canada,"ai, analytics, biotech, healthtech","pre-seed, seed, series a, series b"
+540,medventure partners,venture capital,tokyo,japan,healthtech,series c
+541,meltem demirors,unknown,new york,usa,"blockchain, cryptocurrency","pre-seed, seed"
+542,merck global health innovation fund,unknown,whitehouse station,usa,healthtech,series b
+543,mercury fund,venture capital,houston,usa,cleantech,unknown
+544,mesoamerica alexandria corp.,unknown,unknown,unknown,edtech,series a
+545,metiquity ventures,venture capital,calgary,canada,analytics,seed
+546,michael carter-williams,angel,unknown,unknown,blockchain,series c
+547,michael dunworth,unknown,san francisco,usa,fintech,series a
+548,michael jordan,angel,unknown,unknown,blockchain,series c
+549,michael kives,unknown,los angeles,usa,edtech,seed
+550,michael kordyback,angel,unknown,unknown,cryptocurrency,seed
+551,michael paulus,unknown,san francisco,usa,fintech,series b
+552,michael rowell,unknown,bellevue,usa,fintech,series b
+553,michele romanow,unknown,toronto,canada,"edtech, legaltech, martech, marketplace",seed
+554,michelin ventures,unknown,unknown,france,greentech,series b
+555,middleland capital,unknown,washington,usa,agtech,series b
+556,mike baker,unknown,boston,usa,saas,pre-seed
+557,mike cohen,angel,unknown,unknown,blockchain,seed
+558,millennium technology value partners,venture capital,new york,usa,saas,seed
+559,missionog,venture capital,philadelphia,usa,fintech,unknown
+560,mistral venture partners,venture capital,ottawa,canada,"analytics, data, fintech, legaltech, martech, marketplace, propertytech, saas","pre-seed, seed, series a, series b, series c"
+561,mitsubishi,unknown,unknown,canada,saas,seed
+562,mogo,unknown,vancouver,canada,"cryptocurrency, fintech",unknown
+563,moneta ventures,venture capital,folsom,usa,martech,seed
+564,montrose lane (fka cottonwood venture partners),"private equity firm, venture capital",houston,usa,cleantech,unknown
+565,moonbeam network,unknown,boston,usa,cryptocurrency,unknown
+566,moore capital,unknown,new york,usa,platform,series c
+567,morgan creek digital,unknown,chapel hill,usa,blockchain,seed
+568,morningside group,venture capital,shanghai,china,"agtech, healthtech",series a
+569,mouro capital,venture capital,london,united kingdom,"fintech, saas","series c, series d"
+570,moxxie ventures,unknown,san francisco,usa,propertytech,seed
+571,mpgi,"family investment office, private equity firm, venture capital",london,united kingdom,ai,seed
+572,n49p,venture capital,toronto,canada,"agtech, consumer, edtech, fintech, martech, platform, saas","pre-seed, seed, series a"
+573,narrative fund,venture capital,san francisco,usa,"cleantech, saas",unknown
+574,nascent digital,unknown,toronto,canada,fintech,series a
+575,nasir jones,unknown,new york,usa,healthtech,series a
+576,national bank of canada,unknown,calgary,canada,"fintech, healthtech, insurtech, quantum","seed, series a, series b, series c"
+577,national research council of canada irap,unknown,unknown,canada,"biotech, fintech",grant
+578,natural resources canada,unknown,ottawa,canada,cleantech,grant
+579,nserc,unknown,unknown,canada,biotech,grant
+580,near,unknown,unknown,usa,cryptocurrency,unknown
+581,negev capital,venture capital,grand cayman,cayman islands,biotech,seed
+582,neil danroth,angel,unknown,unknown,fintech,pre-seed
+583,nelson education,unknown,toronto,canada,edtech,series a
+584,nelson investments,venture capital,vancouver,canada,cryptocurrency,seed
+585,new ventures bc,accelerator,vancouver,canada,saas,seed
+586,newark venture partners,"accelerator, venture capital",newark,usa,"analytics, devtech","pre-seed, seed"
+587,next canada,accelerator,toronto,canada,"3dtech, ai, agtech, analytics, cleantech, cybersecurity, fintech, healthtech, marketplace, propertytech, robotics, saas, socialtech","pre-seed, seed"
+588,next ventures,venture capital,austin,usa,fitnesstech,seed
+589,next47,"corporate venture capital, venture capital",palo alto,usa,robotics,series b
+590,nextai,accelerator,toronto,canada,"3dtech, ai, agtech, analytics, cleantech, cybersecurity, healthtech, marketplace, propertytech, saas","pre-seed, seed"
+591,ngp energy technology partners,unknown,washington,usa,analytics,series a
+592,nicholas pirollo,angel,unknown,unknown,ecommerce,series a
+593,nick candito,angel,united states,unknown,ai,seed
+594,nicoya ventures,unknown,unknown,canada,edtech,series a
+595,nikola vucevic,angel,unknown,unknown,blockchain,series c
+596,nilam ganenthiran,unknown,toronto,canada,platform,seed
+597,njf capital,venture capital,london,united kingdom,biotech,series c
+598,nolan arenado,angel,unknown,unknown,blockchain,series c
+599,norm francis,unknown,vancouver,canada,fitnesstech,seed
+600,north island ventures,venture capital,new york,usa,blockchain,"series a, series b"
+601,north star agriculture,unknown,unknown,canada,agtech,series a
+602,northleaf capital partners,unknown,toronto,canada,"healthtech, logisticstech",series b
+603,northspring capital partners,"micro vc, venture capital",cambridge,canada,"edtech, healthtech",seed
+604,notation capital,unknown,brooklyn,usa,iot,seed
+605,novator,unknown,london,united kingdom,saas,seed
+606,nurture ventures,venture capital,wilmington,usa,fintech,seed
+607,nvidia gpu ventures,venture capital,santa clara,usa,analytics,series c
+608,nyca partners,venture capital,new york,usa,fintech,series a
+609,oak hc/ft,venture capital,greenwich,usa,fintech,series c
+610,ogci climate investments,venture capital,london,united kingdom,"analytics, cleantech","series b, series d"
+611,oji udezue,unknown,austin,usa,saas,seed
+612,oleg rogynskyy,unknown,san francisco,usa,"ai, cybersecurity","pre-seed, seed"
+613,omers growth equity,"private equity firm, venture capital",toronto,canada,saas,series e
+614,omers ventures,venture capital,toronto,canada,"ai, analytics, autotech, quantum, saas, ecommerce","seed, series a, series b"
+615,ontario brain institute,unknown,toronto,canada,"biotech, fitnesstech","pre-seed, seed"
+616,ontario centre of innovation,unknown,toronto,canada,biotech,seed
+617,ontario centres of excellence,angel group,toronto,canada,"analytics, hci, healthtech, retailtech, robotics, saas, agtech, ecommerce","grant, pre-seed, seed"
+618,ontario teachers pension plan,unknown,unknown,canada,"edtech, robotics","series c, series d"
+619,open circle capital,venture capital,vilnius,lithuania,traveltech,"pre-seed, seed"
+620,orbimed,unknown,new york,usa,"biotech, healthtech","series a, series b"
+621,origin ventures,venture capital,chicago,usa,ecommerce,series a
+622,oscar plag,angel,unknown,unknown,cryptocurrency,seed
+623,ospraie ag sciences,venture capital,new york,usa,agtech,"series b, series c"
+624,ow toad,angel,unknown,unknown,saas,seed
+625,paddock capital,unknown,calgary,canada,"fitnesstech, healthtech","seed, series a"
+626,pallasite ventures,venture capital,chicago,usa,"biotech, saas","seed, series a"
+627,pam danroth,angel,unknown,unknown,fintech,pre-seed
+628,panache ventures,unknown,montreal,canada,"3dtech, ai, adtech, analytics, biotech, cleantech, consumer, cybersecurity, devtech, edtech, fintech, healthtech, insurtech, platform, propertytech, saas, ecommerce","pre-seed, seed, series a"
+629,pangaea ventures,venture capital,vancouver,canada,biotech,series a
+630,parafi capital,"hedge fund, private equity firm, venture capital",greenwich,usa,"blockchain, fintech","pre-seed, seed, series a, series b"
+631,parent project muscular dystrophy,unknown,new jersey,usa,pharmaceutical,grant
+632,partnership fund for new york city,unknown,new york,usa,saas,"series a, series b"
+633,parvizi surgical innovation,venture capital,philadelphia,usa,healthtech,unknown
+634,paul geyer,unknown,vancouver,canada,fitnesstech,seed
+635,penderfund capital management,venture capital,vancouver,canada,traveltech,series a
+636,peter poka,angel,unknown,unknown,cryptocurrency,seed
+637,pi labs,"accelerator, venture capital",london,united kingdom,ai,series a
+638,picante capital,unknown,unknown,canada,healthtech,series a
+639,pirata capital management,unknown,unknown,cayman islands,blockchain,series b
+640,pjc,venture capital,boston,usa,ai,seed
+641,plaza ventures,venture capital,toronto,canada,"entertainmenttech, marketplace, ecommerce","series b, series c"
+642,plug and play,"accelerator, co-working space, corporate venture capital, university program, venture capital",sunnyvale,usa,"ai, fintech, platform, saas","pre-seed, series a, series b"
+643,plymouth growth,venture capital,ann arbor,usa,saas,series a
+644,pnyx ventures,venture capital,unknown,unknown,blockchain,"pre-seed, seed"
+645,polar capital management,unknown,toronto,canada,fintech,series a
+646,polychain,"hedge fund, venture capital",san francisco,usa,blockchain,"pre-seed, seed, series a"
+647,portage ventures,venture capital,toronto,canada,"fintech, healthtech","series a, series b, series c"
+648,portico ventures,venture capital,new york,usa,blockchain,seed
+651,practica capital,"micro vc, private equity firm, venture capital",vilnius,lithuania,traveltech,"pre-seed, seed"
+652,primetime partners,venture capital,new york,usa,fintech,series a
+654,proeza ventures,"private equity firm, venture capital",monterrey,mexico,platform,seed
+655,prolog ventures,venture capital,st louis,usa,healthtech,series a
+656,propel(x),venture capital,san francisco,usa,ai,seed
+657,protein industries canada,unknown,regina,canada,analytics,seed
+658,quantum energy partners,unknown,houston,usa,analytics,series a
+659,quiet capital,"micro vc, venture capital",seattle,usa,edtech,seed
+660,r-labs canada,unknown,unknown,canada,unknown,seed
+661,ra capital management,venture capital,boston,usa,healthtech,series a
+662,rabindra shrestha,unknown,singapore,singapore,blockchain,series b
+663,radical ventures,venture capital,toronto,canada,"ai, autotech, biotech, fintech, healthtech, quantum, saas","seed, series a, series b"
+664,rainfall ventures,venture capital,los angeles,usa,aerospace,pre-seed
+665,raiven capital,venture capital,toronto,canada,ecommerce,seed
+666,ramen ventures,"angel group, venture capital",toronto,canada,"ai, fintech, healthtech","pre-seed, seed, series b"
+667,rasool rayani,unknown,victoria,canada,"blockchain, healthtech",seed
+668,raven indigenous capital partners,"private equity firm, venture capital",vancouver,canada,marketplace,seed
+669,rbc capital,"investment bank, venture capital",toronto,canada,"fintech, traveltech","series a, series b"
+670,reach capital,"micro vc, venture capital",san francisco,usa,edtech,"seed, series b, series c"
+671,real ventures,"micro vc, venture capital",montreal,canada,"ai, agtech, biotech, cleantech, devtech, edtech, fintech, foodtech, hrtech, hardware, healthtech, insurtech, legaltech, marketplace, misc, platform, propertytech, quantum, retailtech, robotics, saas, transportationtech, ecommerce","pre-seed, seed, series a, series b, series c"
+672,reciprocal ventures,venture capital,new york,usa,"data, fintech","series a, series b"
+673,red thread ventures,"micro vc, venture capital",vancouver,canada,"hardware, healthtech, legaltech, platform, robotics","pre-seed, seed"
+675,refinery ventures,venture capital,cincinnati,usa,"data, martech","seed, series a, series b"
+676,regan bozman,unknown,san francisco,usa,blockchain,seed
+677,relay ventures,venture capital,toronto,canada,"legaltech, martech, saas, transportationtech","seed, series a, series b"
+678,relentless pursuit partners,venture capital,vancouver,canada,healthtech,series a
+679,renewal funds,venture capital,vancouver,canada,marketplace,series a
+680,republic labs,venture capital,new york,usa,blockchain,series b
+681,resolute ventures,unknown,san francisco,usa,analytics,seed
+682,resolve growth partners,unknown,baltimore,usa,healthtech,series a
+683,rhino ventures,unknown,vancouver,canada,"biotech, edtech, videotech, wearables",series a
+684,rhythm vc,venture capital,new york,usa,biotech,seed
+685,rice investment group,venture capital,carnegie,usa,analytics,unknown
+686,right side capital management,unknown,san francisco,usa,"ai, hardware, logisticstech",pre-seed
+687,ripple ventures,unknown,toronto,canada,"analytics, devtech, edtech, healthtech, logisticstech, saas","pre-seed, seed, series a"
+688,rob goldman,unknown,san francisco,usa,edtech,seed
+689,root ventures,venture capital,san francisco,usa,"saas, iot",seed
+690,round13 capital,venture capital,toronto,canada,"fintech, hardware, legaltech, martech, marketplace, nanotech, networks, propertytech, saas, videotech, ecommerce","seed, series a, series b"
+691,rre ventures,venture capital,new york,usa,saas,"series a, series b"
+692,rtp global,venture capital,london,united kingdom,"data, saas","series a, series b"
+693,runa capital,venture capital,palo alto,usa,fintech,series b
+694,rus newton,angel,jersey,unknown,cryptocurrency,seed
+695,russell verbeeten,unknown,toronto,canada,blockchain,seed
+696,russell wilson,unknown,brisbane,australia,fintech,unknown
+697,ryan holmes,unknown,vancouver,canada,"fintech, martech",seed
+698,ryerson university,unknown,toronto,canada,healthtech,pre-seed
+699,s&p global,unknown,new york,usa,data,series a
+700,s2g ventures,venture capital,chicago,usa,agtech,"seed, series b, series c"
+701,s3 ventures,venture capital,austin,usa,cybersecurity,series b
+702,sage group,unknown,newcastle upon tyne,united kingdom,fintech,series c
+703,salesforce ventures,unknown,san francisco,usa,"3dtech, ai, edtech, healthtech, saas","series a, series b, series c"
+704,samsara biocapital,venture capital,palo alto,usa,biotech,series a
+705,samsung ventures,unknown,seoul,south korea,"blockchain, fintech",series b
+706,sands capital ventures,unknown,unknown,usa,saas,series a
+707,sanja fidler,unknown,toronto,canada,autotech,series a
+708,satish kanwar,unknown,toronto,canada,"edtech, fintech",seed
+709,scalar capital,unknown,san francisco,usa,fintech,series a
+710,scaleup ventures,unknown,toronto,canada,"ai, analytics, data, healthtech, logisticstech, marketplace, saas","seed, series a, series b"
+711,scout ventures,unknown,austin,usa,quantum,seed
+712,sei ventures,venture capital,washington,usa,edtech,seed
+713,sensata technologies,unknown,attleboro,usa,"analytics, cleantech",series a
+714,sequoia capital china,venture capital,beijing,china,ecommerce,unknown
+715,sergio a. escobar,unknown,montreal,canada,legaltech,series a
+716,set ventures,venture capital,amsterdam,the netherlands,cleantech,series e
+717,shadow ventures,venture capital,atlanta,usa,propertytech,series a
+718,shanda group,unknown,menlo park,usa,ai,pre-seed
+719,shell ventures,unknown,rijswijk,the netherlands,cleantech,unknown
+720,shopify,unknown,ottawa,canada,"fintech, ecommerce","series a, series c"
+721,side door ventures,venture capital,san francisco,usa,"biotech, consumer, insurtech, saas","pre-seed, series a"
+722,silicon valley bank,unknown,santa clara,usa,"fintech, quantum, saas, wearables","seed, series a, series b"
+723,silversmith capital partners,unknown,boston,usa,saas,unknown
+724,sino global capital,venture capital,beijing,china,"cryptocurrency, fintech",series a
+725,sixty degree capital,venture capital,toronto,canada,"analytics, biotech",series c
+726,slack fund,unknown,daly city,usa,"cybersecurity, saas","seed, series a"
+727,smarthub,venture capital,san francisco,usa,autotech,series a
+728,sofinnova partners,venture capital,paris,france,"agtech, greentech","series b, series c"
+729,sofreh capital,unknown,miami,usa,ai,seed
+730,sol global investments,unknown,calgary,canada,autotech,series a
+731,somel investments,unknown,quebec,canada,ai,seed
+732,sorenson capital,"private equity firm, venture capital",lehi,usa,"analytics, platform","series b, series e"
+733,sosv,"accelerator, micro vc, venture capital",princeton,usa,"agtech, biotech, fintech, foodtech, hardware, healthtech, marketplace, propertytech, robotics, transportationtech","pre-seed, seed, series b, series d"
+734,soul foods group,unknown,rickmansworth,united kingdom,platform,seed
+735,sound ventures,venture capital,beverly hills,usa,"ai, blockchain, cybersecurity, fintech","seed, series a, series b, series c"
+736,sp ventures,unknown,pinheiros,brazil,agtech,unknown
+737,space capital,venture capital,new york,usa,"analytics, data",series b
+738,spark capital,venture capital,san francisco,usa,ai,"series b, series c"
+739,sparklabs taipei,"accelerator, venture capital",taipei,taiwan,insurtech,unknown
+740,spencer dinwiddie,unknown,brooklyn,usa,blockchain,"series b, series c"
+741,spring mountain capital,"private equity firm, venture capital",new york,usa,robotis,series b
+742,sprout bioventures,venture capital,unknown,usa,biotech,"seed, series a"
+743,sprout fund lp,venture capital,edmonton,canada,geotech,seed
+744,stagecoach partners,unknown,chicago,usa,fintech,pre-seed
+745,stakewith.us,unknown,singapore,singapore,cryptocurrency,unknown
+746,standup ventures,unknown,toronto,canada,"ai, biotech, data, edtech, healthtech, martech, marketplace, saas","seed, series a, series b, series c"
+747,stanford law school,unknown,stanford,usa,healthtech,series a
+748,stani kulechov,unknown,como,italy,fintech,series a
+749,stanley +techstars ai in advanced manufacturing,accelerator,hartford,usa,saas,seed
+751,startup capital ventures,unknown,menlo park,usa,cybersecurity,series b
+752,steve arless,unknown,baie-d'urfe,canada,healthtech,seed
+753,steven albiani,angel,unknown,unknown,edtech,seed
+754,stout street capital,"micro vc, venture capital",denver,usa,healthtech,"seed, series a"
+755,strada education network,unknown,indianapolis,usa,edtech,seed
+756,strategic equities,unknown,new york,usa,legaltech,series a
+757,strategic equities group,unknown,calgary,canada,fintech,pre-seed
+758,stronghold resource partners,unknown,texas,usa,analytics,series a
+759,struck capital,venture capital,santa monica,usa,"hrtech, ecommerce",series a
+760,stuart macdonald,unknown,toronto,canada,saas,unknown
+761,summit partners,unknown,boston,usa,analytics,series e
+762,suncor energy,unknown,calgary,canada,cleantech,series d
+763,sunhope capital,venture capital,san jose,usa,healthtech,pre-seed
+764,susa ventures,"micro vc, venture capital",san francisco,usa,fintech,"seed, series a"
+765,susquehanna growth equity,unknown,philadelphia,usa,fintech,"series a, series b"
+766,sustainable development technology canada,"government office, venture capital",ottawa,canada,"analytics, biotech, cleantech, nanotech, propertytech, saas, transportationtech, agtech","grant, pre-seed, seed"
+767,sv angel,unknown,san francisco,usa,ai,series a
+768,t. rowe price,unknown,baltimore,usa,saas,series e
+769,tactico,venture capital,montreal,canada,"fintech, legaltech","seed, series a"
+770,tam holdings,"private equity firm, venture capital",san francisco,usa,analytics,unknown
+771,tarun sachdeva,angel,canada,canada,edtech,seed
+772,taubman capital,unknown,new york,usa,analytics,unknown
+773,tcv,unknown,menlo park,usa,saas,series d
+774,techstars,"accelerator, venture capital",boulder,usa,"ai, ar, agtech, analytics, biotech, cleantech, cybersecurity, devtech, edtech, fintech, hardware, healthtech, martech, marketplace, misc, propertytech, saas, transportationtech, traveltech","pre-seed, seed, series a"
+775,techstars energy accelerator in partnership with equinor,accelerator,oslo,norway,cleantech,pre-seed
+776,techstars seattle accelerator,accelerator,seattle,usa,edtech,pre-seed
+777,techstars toronto accelerator,accelerator,toronto,canada,"analytics,artificialintelligence,fintech,healthtech,marketplace,propertytech,transportationtech,traveltech",pre-seed
+778,telegraph hill capital,venture capital,san francisco,usa,"retailtech, saas, ecommerce",seed
+779,telstra ventures,venture capital,san francisco,usa,ecommerce,series b
+780,telus ventures,unknown,vancouver,canada,"agtech, analytics, biotech, fintech, healthtech, platform","pre-seed, seed, series b, series c"
+781,temasek holdings,unknown,singapore,singapore,cleantech,"series d, series e"
+782,tensility venture partners,venture capital,chicago,usa,quantum,seed
+783,thaddeus young,angel,unknown,unknown,"blockchain, martech","seed, series c"
+784,thayer ventures,venture capital,san francisco,usa,ecommerce,series b
+785,the 51 ventures,venture capital,calgary,canada,"martech, marketplace, nanotech","seed, series a, series b"
+786,the atmospheric fund (taf),unknown,toronto,canada,cleantech,series a
+787,the david slabodkin family trust,family office,unknown,canada,saas,unknown
+788,the graph,unknown,san francisco,usa,blockchain,grant
+789,the lao,venture capital,unknown,germany,fintech,series a
+790,the roda group,venture capital,berkeley,usa,cleantech,series d
+791,the spartan group,venture capital,singapore,singapore,fintech,series a
+792,theodorus iii,venture capital,unknown,belgium,biotech,seed
+793,thin air labs,venture capital,calgary,canada,"healthtech, legaltech","seed, series a"
+794,think + ventures,unknown,palo alto,usa,"propertytech, saas","series a, series b"
+795,thomvest ventures,venture capital,san francisco,usa,fintech,series a
+796,three arrows capital,unknown,singapore,singapore,blockchain,seed
+797,threshold,venture capital,menlo park,usa,saas,seed
+798,thuja capital,unknown,utrecht,the netherlands,fitnesstech,seed
+799,ti platform management,unknown,san francisco,usa,logisticstech,seed
+800,tiger global management,"hedge fund, private equity firm, venture capital",new york,usa,"ai, hrtech, saas","seed, series b, series c"
+801,tightline holdings,unknown,unknown,cyprus,cybersecurity,series b
+802,tim draper,unknown,san francisco,usa,"ai, quantum","series a, series b"
+803,tobias lütke,unknown,ottawa,canada,"3dtech, cybersecurity, fintech, saas","seed, series a, series b"
+804,tokio marine,unknown,houston,usa,saas,series b
+805,tom williams,unknown,san francisco,usa,"biotech, fintech, saas","seed, series a"
+806,touchdown ventures,unknown,haddonfield,usa,legaltech,series a
+807,toyota ventures,venture capital,los altos,usa,"foodtech, saas",seed
+808,tpg growth,unknown,san francisco,usa,edtech,series b
+809,tribe capital,venture capital,menlo park,usa,"hrtech, insurtech, propertytech, saas, spacetech","seed, series a, series b"
+810,tribune capital,venture capital,weyburn,canada,fintech,pre-seed
+811,trisura,unknown,toronto,canada,fintech,series a
+812,tritium partners,unknown,austin,usa,marketplace,series a
+813,trucks venture capital,"micro vc, venture capital",san francisco,usa,"ai, ecommerce","series a, series b"
+814,true ventures,venture capital,palo alto,usa,"ai, biotech, robotics, saas","series a, series b, series c"
+815,tsvc,unknown,los altos,usa,"saas, software",seed
+816,ttv capital,venture capital,atlanta,usa,fintech,series c
+817,tvm capital life science,venture capital,munich,germany,healthtech,series c
+818,two small fish ventures,venture capital,toronto,canada,"ai, blockchain, data, edtech, platform","pre-seed, seed"
+819,ubc seed fund,venture capital,unknown,canada,geotech,seed
+820,uber,unknown,san francisco,usa,autotech,series a
+821,udtara ventures,unknown,new delhi,india,ai,seed
+822,ulta beauty,unknown,bolingbrook,usa,ai,series a
+823,uncork capital,venture capital,san francisco,usa,"ai, cybersecurity, hrtech","seed, series a, series b"
+824,uncorrelated ventures,venture capital,san francisco,usa,cybersecurity,series b
+825,union square ventures,venture capital,new york,usa,"blockchain, edtech","series b, series d"
+826,union tech ventures,unknown,tel aviv,israel,marketplace,series b
+827,union ventures,unknown,unknown,united kingdom,"data, healthtech","series a, series b"
+828,uphill capital,unknown,unknown,hong kong,foodtech,seed
+829,urban innovation fund,unknown,san francisco,usa,platform,seed
+830,urban us,"micro vc, venture capital",brooklyn,usa,iot,seed
+831,urbana,unknown,edinburgh,united kingdom,"agtech, cryptocurrency",series b
+832,utest,unknown,toronto,canada,"biotech, healthtech, saas","pre-seed, seed, series a"
+833,valent low-carbon technologies,unknown,oakville,canada,cleantech,unknown
+834,valor capital group,venture capital,new york,usa,"blockchain, fintech","series a, series b"
+835,vanedge capital,venture capital,vancouver,canada,"marketplace, saas, iot","series a, series b"
+836,vast ventures,venture capital,new york,usa,healthtech,series a
+837,vectr,venture capital,sheung wan,hong kong,healthtech,seed
+838,velo partners,venture capital,london,united kingdom,ai,seed
+839,velocity,unknown,unknown,canada,"aerospace, cleantech, hardware, healthtech, logisticstech, saas",pre-seed
+840,venturelab,"accelerator, incubator",markham,canada,"biotech, propertytech",unknown
+841,version one ventures,venture capital,vancouver,canada,"ai, blockchain, cleantech, fintech","seed, series b, series c, series d"
+842,verstra ventures,venture capital,toronto,canada,"healthtech, saas, iot",seed
+843,vertex ventures,venture capital,palo alto,usa,marketplace,series b
+844,vestigo ventures,unknown,cambridge,usa,fintech,series a
+845,vickers venture partners,venture capital,singapore,singapore,cleantech,unknown
+846,village global,"accelerator, micro vc, venture capital",san francisco,usa,"devtech, hrtech, saas","pre-seed, seed"
+847,vinotronics co-corp,unknown,unknown,canada,"saas, ecommerce",seed
+848,viola growth,venture capital,herzliya,israel,marketplace,series b
+849,vipul goyal,angel,unknown,unknown,cryptocurrency,seed
+850,vista equity partners,unknown,austin,usa,saas,"series c, series d"
+851,vitality capital,"private equity firm, venture capital",toronto,canada,marketplace,series b
+852,volo earth ventures,unknown,snowmass village,usa,"cleantech, hardware","seed, series a"
+853,volta labs,unknown,halifax,canada,analytics,seed
+854,voyager capital,venture capital,seattle,usa,saas,series b
+855,warburg pincus,unknown,new york,usa,"cybersecurity, fintech",unknown
+856,warner music group,unknown,new york,usa,"blockchain, entertainmenttech",series b
+857,waterbridge ventures,unknown,new delhi,india,healthtech,"seed, series a, series b"
+858,waterdrip capital,unknown,shanghai,china,fintech,seed
+859,weekend fund,unknown,san francisco,usa,propertytech,seed
+860,werklund capital,venture capital,calgary,canada,robotics,series b
+861,westcap group,"private equity firm, venture capital",san francisco,usa,traveltech,series f
+862,western economic diversification canada,unknown,edmonton,canada,marketplace,seed
+863,wharton alumni angels,angel group,fort washington,usa,healthtech,pre-seed
+864,what if ventures,"micro vc, syndicate, venture capital",frisco,usa,ai,seed
+865,white owl capital partners,venture capital,new york,usa,fintech,series b
+866,white star capital,venture capital,new york,usa,"cybersecurity, fintech, hardware, healthtech, misc, platform, propertytech, robotics, saas","seed, series a, series b, series c"
+867,whitecap venture partners,venture capital,toronto,canada,"agtech, biotech, edtech, fitnesstech, healthtech, logisticstech, marketplace, saas, ecommerce","seed, series a, series b"
+868,wintermute trading,unknown,london,united kingdom,blockchain,seed
+869,workday ventures,unknown,san francisco,usa,"data, saas","seed, series a, series b"
+870,wutif,"micro vc, venture capital",vancouver,canada,"edtech, geotech",seed
+871,xfund,"micro vc, venture capital",palo alto,usa,"ai, misc",series a
+872,y combinator,accelerator,mountain view,usa,"3dtech, biotech, cybersecurity, devtech, hrtech, healthtech, logisticstech, martech, marketplace, platform, quantum, robotics, saas, software, transportationtech, videotech, wearables, ecommerce","pre-seed, seed, series a, series b, series e, series f"
+873,yaletown partners,venture capital,vancouver,canada,"ai, analytics, logisticstech, saas","seed, series a, series b"
+874,yavar mirza,angel,unknown,unknown,"crowdfunding, fintech",unknown
+875,york angels investors,angel group,toronto,canada,legaltech,seed
+876,zaeem shaukat mirza,unknown,toronto,canada,crowdfunding,unknown
+877,zander lurie,unknown,santa monica,usa,ai,series a
+878,rob henderson,angel,unknown,unknown,edtech,seed
+879,i2bf global ventures,unknown,new york,usa,"cleantech, ecommerce","seed, series e"
+880,viewpoint group,unknown,calgary,canada,healthtech,series a
+881,viewpoint capital partners,unknown,zürich,switzerland,legaltech,series a
+882,valar ventures,unknown,new york,usa,"fintech, propertytech","series a, series b, series d"
+883,viva bioinnovator,unknown,shanghai,china,biotech,"seed, series a"
+884,wesley clover,unknown,ottawa,canada,cybersecurity,series b
+885,jay simons,unknown,san francisco,usa,"ai, cybersecurity",series a
+887,protocol ventures,unknown,unknown,unknown,"cryptocurrency, martech","seed, series a"
+888,iosg ventures,unknown,hong kong,hong kong,blockchain,seed
+889,michael deeg,angel,unknown,unknown,cryptocurrency,seed
+890,dee ford,angel,unknown,unknown,blockchain,series c
+891,richard seymour,angel,unknown,unknown,blockchain,series c
+892,rodney mcleod,angel,unknown,unknown,blockchain,series c
+893,roosh ventures,unknown,kyiv,ukraine,blockchain,series c
+894,shawn mendes,unknown,pickering,canada,blockchain,series c
+895,shay mitchell,angel,unknown,unknown,blockchain,series c
+896,stefon diggs,angel,unknown,unknown,blockchain,series c
+897,the chernin group,unknown,los angeles,usa,blockchain,series c
+898,thomas antonio davis,angel,unknown,unknown,blockchain,series c
+899,timothy lamar beckham,angel,unknown,unknown,blockchain,series c
+900,trent williams,angel,unknown,unknown,blockchain,series c
+901,tyrod taylor,angel,unknown,unknown,blockchain,series c
+902,u.s. venture partners,unknown,menlo park,usa,blockchain,series c
+903,udonis haslem,angel,unknown,unknown,blockchain,series c
+904,venrock,unknown,palo alto,usa,blockchain,series c
+905,vivek ranadive,unknown,palo alto,usa,blockchain,series c
+906,will smith,angel,unknown,unknown,blockchain,series c
+907,longhash ventures,unknown,singapore,singapore,fintech,series a
+908,tiny capital,unknown,victoria,canada,"blockchain, fintech, healthtech, marketplace, saas","seed, series a"
+909,pieter abbeel,unknown,san francisco,usa,autotech,series a
+910,founders fund,venture capital,san francisco,usa,marketplace,"series d, series e, series f"
+911,lightspeed venture partners,venture capital,menlo park,usa,"devtech, marketplace","seed, series a, series b, series d, series e, series f"
+912,sequoia capital,venture capital,menlo park,usa,"devtech, marketplace","series e, series f"
+913,dst global,venture capital,unknown,usa,marketplace,"series e, series f"
+914,d1 capital partners,venture capital,new york,usa,marketplace,"series b, series e, series f"
+915,norwest venture partners,venture capital,palo alto,usa,marketplace,"series e, series f"
+916,dragoneer,unknown,san francisco,usa,marketplace,"series e, series f"
+917,75 & sunny,venture capital,los angeles,usa,propertytech,series b
+918,adrian schauer,angel,montreal,canada,healthtech,pre-seed
+919,alexandria venture investments,venture capital,pasadena,usa,biotech,"series a, series c"
+920,amar varma,angel,toronto,canada,"saas, ecommerce",seed
+921,amzak health investors,venture capital,new york,usa,biotech,series a
+922,anthony casalena,angel,new york,usa,cybersecurity,series b
+923,antler,"accelerator, incubator, venture capital",singapore,singapore,social,pre-seed
+924,aqua spark,micro vc,utrecht,the netherlands,unknown,unknown
+925,atlantic canada opportunities agency,micro vc,moncton,canada,cleantech,seed
+926,atlantico,venture capital,brazil,trinidad and tobago,ai,series b
+927,azure capital partners,venture capital,san francisco,usa,unknown,unknown
+928,bitkraft ventures,venture capital,san francisco,usa,blockchain,seed
+929,blackhorn ventures,venture capital,boulder,usa,saas,seed
+931,bow capital,venture capital,menlo park,usa,fintech,series c
+932,btg pactual,micro vc,são paulo,brazil,unknown,unknown
+933,canaccord genuity group,"investment bank, micro vc, venture capital",toronto,canada,fintech,series a
+934,castor ventures,micro vc,boston,usa,ai,series b
+935,cherubic ventures,venture capital,taipei,taiwan,metaverse,seed
+936,chrysalis ventures,venture capital,louisville,usa,healthtech,series b
+937,concrete ventures,micro vc,halifax,canada,"biotech, cybersecurity, legaltech, saas, sportstech","pre-seed, seed"
+938,conexus credit union,venture capital,regina,canada,unknown,unknown
+939,courtside ventures,"micro vc, venture capital",new york,usa,"fitnesstech, marketplace","seed, series a"
+940,cygni capital,venture capital,california,usa,blockchain,series a
+941,dan cugnet,angel,unknown,unknown,unknown,unknown
+942,david grutman,angel,unknown,unknown,fitnesstech,series a
+943,david wichers,angel,unknown,unknown,cybersecurity,seed
+944,dcvc,venture capital,san francisco,usa,"ai, healthtech",series b
+945,dragonfly capital partners,venture capital,san francisco,usa,blockchain,series a
+946,e8 angels,venture capital,seattle,usa,nanotech,seed
+947,eddie lou,angel,chicago,usa,ai,pre-seed
+948,eric wu,angel,san francisco,usa,propertytech,series b
+949,farmers investment club,angel group,palo alto,usa,unknown,unknown
+950,formic ventures,"family investment office, venture capital",san francisco,usa,healthtech,seed
+951,forté ventures,micro vc,atlanta,usa,ai,series b
+952,fulcrum global capital,venture capital,mound city,usa,agtech,"seed, series b"
+953,fuse,venture capital,seattle,usa,"platform, saas, ecommerce","seed, series b"
+954,future shape,venture capital,paris,france,ai,series b
+955,gbv capital,"incubator, venture capital",grand cayman,cayman islands,unknown,unknown
+956,gerhard eschelbeck,angel,san francisco,usa,cybersecurity,"series a, series b"
+957,glade brook capital partners,venture capital,greenwich,usa,traveltech,unknown
+958,glenn goucher,angel,unknown,unknown,fintech,seed
+959,haig farris,angel,canada,unknown,biotech,seed
+960,harley finkelstein,angel,ottawa,canada,cybersecurity,series b
+961,haystack,"micro vc, venture capital",san francisco,usa,cybersecurity,seed
+962,honor ventures,venture capital,menlo park,usa,ecommerce,series b
+963,interplay ventures,venture capital,new york,usa,propertytech,series b
+964,jay parikh,angel,san francisco,usa,cybersecurity,series b
+965,jean genier,angel,unknown,unknown,marketplace,series a
+966,jeffrey wald,angel,new york,usa,ai,pre-seed
+967,jenny yang,angel,vancouver,canada,cybersecurity,seed
+968,jonathan ehrlich,"investment partner, individual/angel",san francisco,usa,propertytech,series b
+969,jonathan oberheide,angel,ann arbor,usa,cybersecurity,seed
+970,jonathan weiner,"investment partner, individual/angel",new york,usa,ecommerce,seed
+971,kerry lumbard,angel,saskatchewan,north america,unknown,unknown
+972,kevin hartz,"investment partner, individual/angel",san francisco,usa,cybersecurity,series b
+973,kevin mahaffey,angel,san francisco,usa,"cybersecurity, logisticstech","seed, series a"
+974,khaled verjee,angel,unknown,unknown,blockchain,seed
+975,ldv partners,venture capital,palo alto,usa,legaltech,series b
+976,lemniscap,"hedge fund, venture capital",hong kong,hong kong,blockchain,series a
+977,lydia jett,"investment partner, individual/angel",san francisco,usa,propertytech,series b
+978,mai fujimoto,angel,unknown,unknown,unknown,unknown
+979,mark macleod,angel,toronto,canada,marketplace,series a
+980,mary karamanos,angel,unknown,unknown,fintech,seed
+981,math venture partners,micro vc,chicago,usa,marketplace,series a
+982,mavan capital partners,venture capital,kelowna,canada,saas,series c
+983,max schmeiser,angel,seattle,usa,hardware,seed
+984,metis innovative,venture capital,unknown,canada,healthtech,seed
+985,michael katchen,angel,toronto,canada,"hardware, propertytech","seed, series b"
+986,michael sutton,"investment partner, individual/angel",arlington,usa,cybersecurity,seed
+987,micro saas capital,micro vc,toronto,canada,saas,seed
+988,mike cannon-brookes,"investment partner, individual/angel",sydney,australia,cybersecurity,"series a, series b"
+989,net zero accelerator,accelerator,unknown,usa,cleantech,unknown
+990,new brunswick innovation foundation,venture capital,fredericton,canada,"agtech, cybersecurity, fintech, saas",seed
+991,ngc ventures,micro vc,singapore,singapore,metaverse,seed
+992,noel hall,angel,british columbia,north america,biotech,seed
+993,obvious ventures,"incubator, venture capital",san francisco,usa,"ai, saas","series a, series b"
+994,open prairie,venture capital,champaign,usa,agtech,series c
+995,palm drive capital,venture capital,new york,usa,metaverse,seed
+996,paul genier,angel,unknown,unknown,marketplace,series a
+997,pender growth fund,venture capital,vancouver,canada,healthtech,series b
+998,pender ventures,venture capital,vancouver,canada,propertytech,series a
+999,plexo capital,venture capital,san francisco,usa,marketplace,series a
+1000,preface ventures,venture capital,san francisco,usa,cybersecurity,seed
+1001,qed investors,venture capital,alexandria,usa,"ai, fintech","series a, series b"
+1002,ray muzyka,angel,edmonton,canada,healthtech,"pre-seed, seed"
+1003,robert vis,angel,amsterdam,the netherlands,cybersecurity,series b
+1004,robot ventures,venture capital,san francisco,usa,"blockchain, cryptocurrency",series a
+1005,rodney dobson,angel,unknown,unknown,fintech,seed
+1006,ronald richardson,angel,ottawa,canada,ecommerce,"pre-seed, seed"
+1007,samsung next,venture capital,mountain view,usa,"blockchain, healthtech","pre-seed, seed"
+1008,sandra macpherson,angel,unknown,unknown,biotech,seed
+1009,scott farquhar,"investment partner, individual/angel",sydney,australia,cybersecurity,"series a, series b"
+1010,shangbay capital,venture capital,palo alto,usa,healthtech,seed
+1011,shannon lambert,angel,unknown,unknown,marketplace,series a
+1012,shima capital,venture capital,san francisco,usa,metaverse,seed
+1013,silver lake waterman,venture capital,menlo park,usa,cybersecurity,unknown
+1014,skip capital,venture capital,sydney,australia,cybersecurity,series b
+1015,sounil yu,angel,washington,usa,cybersecurity,seed
+1016,stewart butterfield,angel,vancouver,canada,cybersecurity,series b
+1017,stonemill ventures,venture capital,arlington,usa,"cybersecurity, saas","seed, series a"
+1018,tandemlaunch,accelerator,montreal,canada,"ai, hardware, healthtech, nanotech, iot","seed, series a"
+1019,techstars farm to fork accelerator,accelerator,saint paul,usa,marketplace,pre-seed
+1021,the yield lab,accelerator,st louis,usa,marketplace,series a
+1022,tracker capital management,venture capital,new york,usa,ai,series b
+1023,true capital,venture capital,london,united kingdom,unknown,unknown
+1024,upside partnership,micro vc,mill valley,usa,unknown,unknown
+1025,varun badhwar,angel,san francisco,usa,cybersecurity,seed
+1026,well ventures,venture capital,vancouver,canada,"hrtech, healthtech",seed
+1027,xavier niel,angel,paris,france,unknown,unknown
+1028,xploration capital,venture capital,moscow,russian federation,ecommerce,seed
+1029,zane lackey,angel,austin,usa,cybersecurity,seed
+1030,zyshan kaba,angel,unknown,unknown,blockchain,seed
+1031,#angels,angel group,san francisco,usa,ai,pre-seed
+1032,11.2 capital,micro vc,san francisco,usa,analytics,seed
+1033,1984 ventures,micro vc,san francisco,usa,propertytech,series a
+1034,3dot6 ventures,venture capital,unknown,unknown,cybersecurity,unknown
+1035,acton capital,venture capital,münchen,germany,healthtech,series a
+1036,admare bio innovations,"accelerator, venture capital",vancouver,canada,unknown,seed
+1037,aet fund,micro vc,tokyo,japan,ai,seed
+1038,ajay agrawal,angel,unknown,unknown,biotech,seed
+1039,alchemist blockchain techstars accelerator,accelerator,new york,usa,unknown,pre-seed
+1040,alex moorhead,angel,unknown,unknown,unknown,series a
+1041,alex norman,"investment partner, individual/angel",toronto,canada,fintech,seed
+1042,alleycorp,"incubator, venture capital",new york,usa,"3dtech, propertytech",series a
+1043,allianz x,corporate venture capital,münchen,germany,fintech,unknown
+1044,aly madhavji,"investment partner, individual/angel",singapore,singapore,unknown,pre-seed
+1045,amplify capital,"micro vc, venture capital",toronto,canada,"biotech, edtech, greentech, healthtech","pre-seed, seed"
+1046,angel one network,angel group,burlington,canada,healthtech,seed
+1047,angelsquare,micro vc,paris,france,saas,seed
+1048,arc angel fund,angel group,new york,usa,unknown,pre-seed
+1049,argo ventures,venture capital,new york,usa,fintech,series b
+1050,asics ventures corporation,corporate venture capital,kobe,japan,healthtech,pre-seed
+1051,autotech ventures,venture capital,menlo park,usa,transportationtech,series b
+1052,avlok kohli,angel,san francisco,usa,ecommerce,pre-seed
+1053,axeleo capital,venture capital,paris,france,unknown,seed
+1054,baseline ventures,venture capital,jackson,usa,data,seed
+1055,basil bouraropoulos,angel,montreal,canada,ai,series a
+1056,beedie capital partners,venture capital,vancouver,canada,fintech,series b
+1057,bennet wei,angel,canada,canada,saas,seed
+1058,betaworks ventures,micro vc,new york,usa,unknown,pre-seed
+1059,bicameral ventures,venture capital,toronto,canada,fintech,pre-seed
+1060,bioenterprise canada,accelerator,guelph,canada,ai,seed
+1061,black jays,venture capital,new york,usa,fintech,seed
+1062,blc bank,venture capital,beirut,lebanon,ecommerce,series a
+1063,bloomberg beta,"corporate venture capital, venture capital",san francisco,usa,fintech,pre-seed
+1064,bmw i ventures,corporate venture capital,mountain view,usa,"hardware, transportationtech",series b
+1065,bolt,"micro vc, venture capital",san francisco,usa,hardware,series a
+1066,boomtown accelerators,accelerator,boulder,usa,hardware,pre-seed
+1067,breakawaygrowth fund,venture capital,san francisco,usa,fintech,seed
+1068,buildit accelerator,"accelerator, venture capital",riga,latvia,robotics,pre-seed
+1069,capital factory,"accelerator, co-working space, venture capital",austin,usa,data,seed
+1070,capital innovators,"accelerator, venture capital",st louis,usa,adtech,seed
+1071,cathexis ventures,venture capital,houston,usa,edtech,seed
+1072,cedar mundi ventures,venture capital,beirut,lebanon,ecommerce,series a
+1073,china reform holdings corporation,venture capital,beijing,china,biotech,series d
+1074,colliers proptech accelerator powered by techstars,accelerator,toronto,canada,"propertytech,saas","pre-seed,seed"
+1075,craft ventures,venture capital,san francisco,usa,"ai, data, saas","seed, series a"
+1076,curtis gavura,angel,unknown,unknown,ai,series a
+1077,daniel curran,angel,san francisco,usa,propertytech,series a
+1078,dennis bennie,"investment partner, individual/angel",toronto,canada,fintech,seed
+1079,efounders,incubator,paris,france,saas,series a
+1080,equipo ventures,venture capital,san francisco,usa,unknown,series a
+1081,erik peterson,angel,chicago,usa,propertytech,seed
+1082,fashion zone,incubator,toronto,canada,ecommerce,pre-seed
+1083,felicis ventures,venture capital,menlo park,usa,"ai, biotech, saas","seed, series a"
+1084,ferst capital partners - fcp,venture capital,montreal,canada,"cryptocurrency, fintech","seed, series a"
+1085,first stone venture partners,venture capital,unknown,canada,platform,seed
+1086,firstminute capital,micro vc,london,united kingdom,unknown,pre-seed
+1087,florida gulfshore capital,venture capital,naples,usa,marketplace,seed
+1088,food retail ventures,venture capital,boston,usa,unknown,series a
+1089,foundersx ventures,venture capital,menlo park,usa,wearables,seed
+1090,fred cyrus roeder,angel,london,united kingdom,traveltech,pre-seed
+1091,frontline ventures,venture capital,london,united kingdom,fintech,series b
+1092,fulgur ventures,venture capital,wilmington,usa,cryptocurrency,seed
+1093,gci capital,"micro vc, venture capital",toronto,canada,ai,"seed, series a"
+1094,general catalyst,venture capital,cambridge,usa,unknown,series a
+1095,georgian angel network,micro vc,detroit,usa,"edtech, marketplace, robotics",seed
+1096,glenn murphy,angel,united states,unknown,fintech,series a
+1097,gmg ventures,micro vc,london,united kingdom,unknown,pre-seed
+1098,google assistant investments,corporate venture capital,mountain view,usa,edtech,unknown
+1099,grassfed ventures,venture capital,toronto,canada,healthtech,pre-seed
+1100,grey sky venture partners,venture capital,bellevue,usa,"ai, biotech","seed, series a"
+1101,groupe roski,"micro vc, venture capital",montreal,canada,"ai, biotech",seed
+1102,hanwha asset management,venture capital,seoul,south korea,ai,series b
+1103,harbor street ventures,"angel group, venture capital",chicago,usa,ai,series a
+1104,hello ventures,venture capital,victoria,canada,robotics,seed
+1105,hikma ventures,corporate venture capital,london,united kingdom,ai,series a
+1106,horizons ventures,venture capital,hong kong,hong kong,"analytics, biotech","seed, series a"
+1107,hv capital,venture capital,munich,germany,healthtech,series b
+1108,ideaboost,accelerator,toronto,canada,unknown,"pre-seed,seed"
+1109,industry ventures,venture capital,san francisco,usa,"propertytech, saas",seed
+1110,innostart capital,venture capital,montreal,canada,"ecommerce, esports",pre-seed
+1111,innovacorp,"micro vc, venture capital",halifax,canada,"ai, analytics, biotech, cleantech, cybersecurity, healthtech, saas","pre-seed, seed, series a"
+1112,interaction ventures,angel group,montreal,canada,fintech,seed
+1113,jackson square ventures,venture capital,san francisco,usa,transportationtech,series b
+1114,james mccann,"investment partner, individual/angel",boston,usa,unknown,series a
+1115,jane wang,angel,canada,unknown,healthtech,seed
+1116,jean desgagne,angel,unknown,unknown,saas,seed
+1117,jump capital,venture capital,chicago,usa,saas,series b
+1118,kavi maharajh,angel,toronto,canada,retailtech,seed
+1119,kingsley advani,angel,san francisco,usa,unknown,seed
+1120,kula sellathurai,angel,unknown,unknown,marketplace,pre-seed
+1121,latam startups,"accelerator, micro vc",toronto,canada,marketplace,pre-seed
+1122,launchyu,accelerator,toronto,canada,saas,pre-seed
+1123,lauren deluca,"investment partner, individual/angel",chicago,usa,unknown,seed
+1124,ldv capital,micro vc,new york,usa,platform,series b
+1125,leon li,angel,toronto,canada,traveltech,pre-seed
+1126,lilly asia ventures,venture capital,shanghai,china,biotech,series d
+1127,louis beryl,angel,san francisco,usa,propertytech,seed
+1128,loyal vc,venture capital,toronto,canada,heatlhtech,pre-seed
+1129,lux capital,venture capital,new york,usa,"analytics, biotech, devtech","seed, series a, series b"
+1130,maksim golivkin,angel,unknown,unknown,traveltech,pre-seed
+1131,matchstick ventures,micro vc,boulder,usa,unknown,series a
+1132,mckinsey & company,co-working space,san francisco,usa,ai,series b
+1133,mehdi bedadi,angel,unknown,unknown,saas,seed
+1134,metaprop,"accelerator, micro vc, venture capital",new york,usa,unknown,pre-seed
+1135,mirai creation fund,venture capital,tokyo,japan,unknown,unknown
+1136,multicoin capital,micro vc,austin,usa,"cryptocurrency, platform","seed, series a"
+1137,ndamukong suh,angel,unknown,unknown,marketplace,seed
+1138,neal dempsey,"investment partner, individual/angel",san francisco,usa,edtech,seed
+1139,new enterprise associates,venture capital,menlo park,usa,fintech,series b
+1140,newfund,venture capital,paris,france,"analytics, hrtech, healthtech","pre-seed, seed"
+1141,next 10 ventures,"corporate venture capital, incubator",los angeles,usa,unknown,seed
+1142,nigel stokes,angel,unknown,unknown,fintech,seed
+1143,one way ventures,"micro vc, venture capital",boston,usa,"devtech, marketplace, propertytech","seed, series a"
+1144,onwave ventures,venture capital,oakville,canada,unknown,unknown
+1145,outlier ventures,"accelerator, venture capital",london,united kingdom,unknown,pre-seed
+1146,owl ventures,venture capital,san francisco,usa,unknown,series c
+1147,pacific health ventures,venture capital,menlo park,usa,ai,series a
+1148,paradigm capital,"micro vc, venture capital",toronto,canada,"biotech, games",seed
+1149,pavin ventures,venture capital,unknown,unknown,propertytech,seed
+1150,pegasus tech ventures,venture capital,san jose,usa,ai,series b
+1151,pelorus venture capital,venture capital,st. john's,canada,"legaltech, saas",unknown
+1152,pi campus,venture capital,rome,italy,unknown,seed
+1153,pioneer fund,venture capital,san francisco,usa,unknown,seed
+1154,plus eight equity fund lp,venture capital,new york,usa,entertainmenttech,series b
+1155,point72 ventures,venture capital,new york,usa,fintech,series c
+1156,promontreal entrepreneurs,incubator,montreal,canada,fintech,seed
+1157,prudence holdings,venture capital,new york,usa,propertytech,series a
+1158,rebel fund,venture capital,san francisco,usa,saas,seed
+1159,rebelbio,accelerator,london,united kingdom,healthtech,seed
+1160,reinventure,venture capital,sydney,australia,fintech,series c
+1161,revel partners,micro vc,new york,usa,fintech,seed
+1162,rgax,"incubator, venture capital",chesterfield,usa,fintech,seed
+1163,richard reiner,angel,toronto,canada,platform,seed
+1164,rising tide,"micro vc, venture capital",menlo park,usa,fintech,seed
+1165,river valley investors,venture capital,springfield,usa,cryptocurrency,seed
+1166,roadmap capital,micro vc,toronto,canada,"cybersecurity, hardware",series d
+1167,robert gierkink,angel,boston,usa,unknown,series a
+1168,rockport capital,venture capital,boston,usa,propertytech,seed
+1169,rogue insight capital,venture capital,markham,canada,fintech,series b
+1170,rtp seed,venture capital,new york,usa,propertytech,seed
+1171,sbcvc,venture capital,shanghai,china,biotech,series d
+1172,segovia capital,venture capital,montreal,canada,ai,series a
+1173,senseai ventures,venture capital,gurgaon,india,unknown,unknown
+1174,sierra ventures,venture capital,san mateo,usa,fintech,series b
+1175,sixthirty,venture capital,st louis,usa,unknown,seed
+1176,social starts,"micro vc, venture capital",san francisco,usa,wearables,seed
+1177,sonae im,corporate venture capital,maia,portugal,saas,series a
+1178,sony innovation fund,corporate venture capital,tokyo,japan,entertainmenttech,series b
+1179,startup health,"micro vc, venture capital",new york,usa,healthtech,pre-seed
+1180,steven denure,angel,unknown,unknown,vr,seed
+1181,structure capital,"micro vc, venture capital",san francisco,usa,marketplace,unknown
+1182,sujay jaswa,"investment partner, individual/angel",san francisco,usa,cybersecurity,series a
+1183,sv health investors,venture capital,boston,usa,biotech,series a
+1184,t. chen fong,angel,calgary,canada,biotech,seed
+1185,tamarisc ventures,"micro vc, venture capital",cambridge,usa,propertytech,pre-seed
+1186,technexus venture collaborative,"incubator, venture capital",chicago,usa,"entertainmenttech, hardware","seed, series b"
+1187,techstars austin accelerator,accelerator,austin,usa,unknown,pre-seed
+1188,techstars detroit accelerator,accelerator,detroit,usa,traveltech,pre-seed
+1189,techstars montreal ai accelerator,accelerator,montreal,canada,"healthtech,transportationtech","pre-seed,seed"
+1190,terrella capital,venture capital,unknown,canada,ai,seed
+1191,the holt xchange,accelerator,montreal,canada,unknown,seed
+1192,times bridge,venture capital,redwood city,usa,unknown,unknown
+1193,todd bissett,angel,waterloo,canada,ai,pre-seed
+1194,toronto innovation acceleration partners,venture capital,toronto,canada,"fintech, healthtech, saas","seed, series c"
+1195,triplabs limited,venture capital,hong kong,hong kong,propertytech,pre-seed
+1196,upper canada equity fund,venture capital,toronto,canada,platform,seed
+1197,vinaj ventures & innovation,micro vc,san francisco,usa,unknown,pre-seed
+1198,vistara growth,venture capital,vancouver,canada,"cybersecurity, fintech",series b
+1199,w investments,venture capital,montreal,canada,analytics,series a
+1200,walnut venture associates,venture capital,wellesley,usa,adtech,seed
+1201,william adams,angel,london,united kingdom,ai,series a
+1202,worldquant ventures llc,venture capital,old greenwich,usa,analytics,seed
+1203,xpring,corporate venture capital,san francisco,usa,unknown,pre-seed
+1204,york entrepreneurship development institute,accelerator,toronto,canada,saas,seed
+1205,yul ventures,micro vc,montreal,canada,entertainmenttech,series b
+1206,zach coelius,"investment partner, individual/angel",san francisco,usa,propertytech,seed
+1207,gener8tor,accelerator,madison,usa,"fintech, hardware",pre-seed
+1208,acequia capital (acecap),micro vc,seattle,usa,iot,seed
+1209,founders factory,accelerator,london,united kingdom,healthtech,pre-seed
+1210,lead sports & health tech partners,accelerator,berlin,germany,healthtech,pre-seed
+1211,abingworth,venture capital,london,united kingdom,biotech,series a
+1212,johnson & johnson innovation,corporate venture capital,cambridge,usa,biotech,series b
+1213,ridge ventures,venture capital,san francisco,usa,"data, saas","series a, series b"
+1214,peakspan capital,venture capital,burlingame,usa,fintech,series b
+1215,arboretum ventures,venture capital,ann arbor,usa,healthtech,unknown
+1216,takeda ventures,corporate venture capital,palo alto,usa,biotech,series a
+1217,darian shirazi,"investment partner, individual/angel",san francisco,usa,data,series a
+1218,healthcap,venture capital,stockholm,sweden,biotech,series b
+1219,launchub ventures,venture capital,sofia,bulgaria,unknown,unknown
+1220,seroba life sciences,venture capital,dublin,ireland,biotech,series b
+1221,pivotal bioventure partners,venture capital,san francisco,usa,biotech,series b
+1222,founder friendly labs,accelerator,palo alto,usa,ecommerce,seed
+1223,westsummit capital,venture capital,menlo park,usa,networks,series c
+1224,third act ventures,venture capital,new york,usa,unknown,unknown
+1225,exponential ventures,venture capital,toronto,canada,unknown,unknown
+1226,techstars berlin accelerator,accelerator,berlin,germany,fintech,pre-seed
+1227,east valley ventures,venture capital,saint john,canada,saas,seed
+1228,the group ventures,venture capital,toronto,canada,fintech,series b
+1229,flat6labs cairo,accelerator,cairo,egypt,unknown,unknown
+1230,capital angel network,angel group,ottawa,canada,"biotech, cleantech, consumer, cybersecurity, edtech, saas","pre-seed, seed"
+1231,connetic ventures,"micro vc, venture capital",covington,usa,"data, saas","pre-seed, series a"
+1232,strategic innovation fund (sif),startup competition,canada,usa,fintech,series b
+1233,air force accelerator powered by techstars,accelerator,boston,usa,hardware,pre-seed
+1234,techstars sportstech melbourne,accelerator,melbourne,australia,ar,pre-seed
+1235,sentiero ventures,venture capital,dallas,usa,cybersecurity,seed
+1236,devon galloway,angel,kitchener,canada,saas,seed
+1237,chris adams,angel,unknown,unknown,marketplace,seed
+1238,break off capital,venture capital,new york,usa,biotech,seed
+1239,hilary shirazi,"investment partner, individual/angel",san francisco,usa,data,series a
+1240,delbridge capital partners,corporate venture capital,vaughan,canada,cybersecurity,seed
+1241,costarter,accelerator,thunder bay,canada,unknown,unknown
+1242,scott coffin,angel,oakville,canada,fintech,seed
+1243,northern ontario heritage fund,venture capital,sault sainte marie,canada,healthtech,seed
+1244,dapeng zhu,angel,unknown,unknown,marketplace,seed
+1245,milad mansour,angel,sudbury,canada,fitnesstech,seed
+1246,craig busch,angel,unknown,unknown,marketplace,seed
+1247,oliver zecha,angel,unknown,unknown,marketplace,seed
+1248,eric wetlaufer,angel,toronto,canada,marketplace,seed
+1249,thien pham,angel,unknown,unknown,marketplace,seed
+1250,rob zulich,angel,unknown,unknown,fitnesstech,seed
+1251,john zulich,angel,unknown,unknown,fitnesstech,seed
+1252,john cassio,angel,unknown,unknown,fitnesstech,seed
+1253,nick foligno,angel,unknown,unknown,fitnesstech,seed
+1254,l-spark,accelerator,ottawa,canada,"ai, cybersecurity, hardware, saas, socialtech, transportationtech","pre-seed, seed"
+1255,40 north ventures,venture capital,california,usa,"cybersecurity, saas",series b
+1256,anchorage,unknown,california,usa,cybersecurity,series b
+1257,argentil capital partners,unknown,lagos,nigeria,transportationtech,seed
+1258,baillie gifford,unknown,edinburgh,united kingdom,fintech,series b
+1259,bonfire ventures,venture capital,santa monica,usa,cybersecurity,series b
+1260,broad street bulls,venture capital,saskatchewan,canada,"sportstech, ecommerce","pre-seed, seed"
+1261,declaration partners,unknown,new york,usa,cybersecurity,series b
+1262,finality capital partners,unknown,unknown,usa,cybersecurity,series b
+1263,fm capital,venture capital,colorado,usa,ai,series b
+1264,gft ventures,venture capital,california,usa,cybersecurity,series b
+1265,golden opportunities fund,venture capital,manitoba,canada,"agtech, robotics",seed
+1266,gsr ventures,venture capital,california,usa,cybersecurity,series b
+1267,hard yaka,"micro vc, venture capital",nevada,usa,cybersecurity,series b
+1268,innovation endeavors,venture capital,california,usa,ai,series b
+1269,intact ventures,unknown,toronto,canada,"ai, logisticstech, propertytech",series b
+1270,jpk capital,unknown,unknown,barbados,cybersecurity,series b
+1271,koch disruptive technologies,venture capital,kansas,usa,ai,series b
+1272,liberty city ventures,micro vc,new york,usa,cybersecurity,series b
+1273,odba & co. ventures,venture capital,unknown,united kingdom,transportationtech,seed
+1274,sands capital,venture capital,virgina,usa,"marketplace, saas",series b
+1275,saskworks venture fund,venture capital,regina,canada,"marketplace, robotics, ecommerce",seed
+1276,senator investment group,unknown,new york,usa,cybersecurity,series b
+1277,shock ventures,venture capital,virgina,usa,unknown,unknown
+1279,w.l. gore & associates,unknown,new jersey,usa,wearables,unknown
+1280,wittington ventures,venture capital,toronto,canada,ai,series b
+1281,york ie,"micro vc, venture capital",new hampshire,usa,"healthtech, saas",seed
+1282,conexus venture capital,venture capital,saskatchewan,canada,"ai, robotics, saas, ecommerce","seed, series b"
+1283,powerhouse ventures,venture capital,california,usa,cleantech,seed
+1284,turnham green capital,venture capital,surrey,canada,cleantech,seed
+1285,fresco capital,"micro vc, venture capital",san francisco,usa,iot,seed
+1286,angular ventures,micro vc,london,united kingdom,saas,seed
+1287,cendana capital,venture capital,san francisco,usa,saas,seed
+1288,k1 investment management,"private equity firm, venture capital",manhattan beach,usa,fintech,series a
+1289,re-pie asset management,"angel group, family investment office, pension funds, university program",istanbul,turkey,games,seed
+1290,sinewave ventures,micro vc,washington,usa,"3dtech, devtech","seed, series a"
+1291,volition capital,venture capital,boston,usa,saas,series a
+1292,klick ventures,venture capital,toronto,canada,saas,unknown
+1293,blu venture investors,"angel group, micro vc, venture capital",vienna,usa,"healthtech, saas",seed
+1294,mana ventures,venture capital,san francisco,usa,3dtech,series a
+1295,section 32,venture capital,san diego,usa,ai,series a
+1296,argonautic ventures,venture capital,grand cayman,cayman islands,"healthtech, saas",seed
+1297,archangel network of funds,"angel group, venture capital",waterloo region,canada,healthtech,seed
+1298,shasta ventures,venture capital,california,usa,"3dtech, ai, devtech","seed, series b"
+1299,hyperplane venture capital,venture capital,boston,usa,ai,seed
+1300,parliament angels,angel group,unknown,canada,ai,seed
+1301,killick capital,venture capital,newfoundland,canada,"hardware, healthtech, legaltech, saas","pre-seed, seed, series b"
+1302,sand hill north,venture capital,toronto,canada,edtech,seed
+1303,bond,venture capital,san francisco,usa,blockchain,series d
+1304,spin master ventures,venture capital,toronto,canada,edtech,seed
+1305,cota capital,venture capital,san francisco,usa,platform,series b
+1306,crypto.com capital,venture capital,unknown,singapore,blockchain,unknown
+1307,scott mcgillivray - mcgillivray group,venture capital,toronto,canada,marketplace,pre-seed
+1309,2150,venture capital,copenhagen,denmark,unknown,unknown
+1310,01a,venture capital,san francisco,usa,unknown,unknown
+1311,100+ accelerator,accelerator,new york,usa,unknown,unknown
+1312,10x capital,venture capital,new york,usa,unknown,unknown
+1313,10x value partners,micro vc,london,united kingdom,unknown,unknown
+1314,1517 fund,"micro vc, venture capital",san francisco,usa,unknown,unknown
+1315,15th rock ventures,venture capital,tokyo,japan,unknown,unknown
+1316,1kx,venture capital,unknown,germany,unknown,unknown
+1317,1up ventures,venture capital,kirkland,usa,games,seed
+1318,2.12 angels,venture capital,unknown,usa,unknown,unknown
+1319,37 angels,angel group,new york,usa,unknown,unknown
+1320,3w partners,private equity firm,saint louis,usa,healthtech,seed
+1321,99 tartans,angel group,pittsburgh,usa,unknown,unknown
+1322,9yards capital,venture capital,san francisco,usa,unknown,unknown
+1323,a.partners,angel group,moscow,russian federation,unknown,unknown
+1324,a&e investments,micro vc,unknown,usa,ai,seed
+1325,abdulrahman alhelal,angel,unknown,unknown,unknown,unknown
+1326,abel makkonen tesfaye,angel,toronto,canada,unknown,unknown
+1327,accenture ventures,venture capital,san francisco,usa,saas,series b
+1328,acet capital,accelerator,sherbrooke,canada,ecommerce,seed
+1329,acuity ventures,venture capital,san jose,usa,unknown,unknown
+1330,acvc partners,venture capital,unknown,usa,unknown,unknown
+1331,adam mcnamara,angel,san francisco,usa,unknown,unknown
+1332,adegoke olubusi,angel,san francisco,usa,unknown,unknown
+1333,advanced technology centre,incubator,edmonton,canada,unknown,unknown
+1334,advancit capital,"micro vc, venture capital",norwood,usa,unknown,unknown
+1335,adventure capital,angel group,melbourne,australia,ai,series a
+1336,aegis group partners,venture capital,unknown,usa,saas,series c
+1337,ag ventures alliance,venture capital,mason city,usa,unknown,unknown
+1338,agcapital canada,"private equity firm, venture capital",tillsonburg,canada,agtech,"series a, series b"
+1339,agfunder,"micro vc, venture capital",san francisco,usa,unknown,unknown
+1340,aimco,venture capital,denver,usa,unknown,unknown
+1341,aiot health,venture capital,calgary,canada,unknown,unknown
+1342,alabaster,venture capital,san francisco,usa,unknown,unknown
+1343,alacrity canada,venture capital,victoria,canada,unknown,unknown
+1344,alen palander,angel,unknown,unknown,unknown,unknown
+1345,alex bauman,angel,unknown,unknown,unknown,unknown
+1346,alex solomon,angel,san francisco,usa,unknown,unknown
+1347,alexander hudek,angel,new york,usa,unknown,unknown
+1348,alexandre tratch,angel,unknown,unknown,unknown,unknown
+1349,algis akstinas,angel,unknown,unknown,unknown,unknown
+1350,alignvest management corporation,angel group,toronto,canada,unknown,unknown
+1351,aligo innovation,venture capital,montreal,canada,unknown,unknown
+1352,allen chang,angel,unknown,unknown,unknown,unknown
+1353,alliance of angels,angel group,seattle,usa,ai,seed
+1354,ally bridge group,"private equity firm, venture capital",hong kong,hong kong,unknown,unknown
+1355,almanac insights,micro vc,new york,usa,unknown,unknown
+1356,alon neches,angel,unknown,unknown,unknown,unknown
+1357,avg funds,"angel group, micro vc",manchester,usa,unknown,unknown
+1358,amarjit gill,angel,san francisco,usa,unknown,unknown
+1359,ame cloud ventures,venture capital,palo alto,usa,saas,seed
+1360,amg brands network inc.,"private equity firm, venture capital",edmonton,canada,unknown,unknown
+1361,amino capital,"accelerator, micro vc, venture capital",palo alto,usa,unknown,unknown
+1362,amit mital,angel,seattle,usa,unknown,unknown
+1363,amit sharma,angel,new york,usa,unknown,unknown
+1364,amka holdings,venture capital,toronto,canada,unknown,unknown
+1365,anchorless bangladesh,venture capital,new york,usa,unknown,unknown
+1366,andré zimmermann,angel,valencia,spain,unknown,unknown
+1367,andrew chen,angel,san francisco,usa,saas,seed
+1368,andrew kitchell,angel,san francisco,usa,propertytech,seed
+1369,andrew lee,angel,san francisco,usa,unknown,unknown
+1370,andrew macdonald,angel,toronto,canada,unknown,unknown
+1371,andrew miklas,angel,san francisco,usa,unknown,unknown
+1372,andrew waitman,angel,ottawa,canada,biotech,pre-seed
+1373,andrew wilkinson,angel,victoria,canada,saas,seed
+1374,andy berman,angel,unknown,unknown,unknown,unknown
+1375,angel forum,angel group,vancouver,canada,unknown,unknown
+1376,angel invest,"micro vc, venture capital",frankfurt,germany,unknown,unknown
+1377,angel round capital,angel group,las vegas,usa,unknown,unknown
+1378,angelpad,"accelerator, incubator, micro vc",san francisco,usa,unknown,unknown
+1379,anil dharni,angel,san francisco,usa,unknown,unknown
+1380,animal capital,venture capital,los angeles,usa,blockchain,series a
+1381,anshul ruparell,angel,toronto,canada,unknown,unknown
+1382,anthemis group,venture capital,london,united kingdom,unknown,unknown
+1383,anthony sassano,angel,unknown,unknown,unknown,unknown
+1384,antoine martin,angel,paris,france,unknown,unknown
+1385,anton rabie,angel,toronto,canada,unknown,unknown
+1386,anwar abdi,angel,toronto,canada,unknown,unknown
+1387,anzu partners,"private equity firm, venture capital",washington,usa,unknown,unknown
+1388,apple tree partners,venture capital,new york,usa,unknown,unknown
+1389,appworks,"accelerator, venture capital",taipei,taiwan,unknown,unknown
+1390,arc financial,venture capital,calgary,canada,unknown,unknown
+1391,aream & co,venture capital,london,united kingdom,games,seed
+1392,arete capital partners,angel group,liverpool,united kingdom,unknown,unknown
+1393,arjun sethi,angel,san francisco,usa,unknown,unknown
+1394,arlene dickinson,angel,calgary,canada,unknown,unknown
+1395,arrowroot capital management,"private equity firm, venture capital",santa monica,usa,unknown,unknown
+1396,artemis capital partners,private equity firm,boston,usa,unknown,unknown
+1397,artesian vc,venture capital,melbourne,australia,unknown,unknown
+1398,asas capital,private equity firm,dubai,united arab emirates,unknown,unknown
+1399,ascend capital partners,venture capital,hong kong,hong kong,unknown,unknown
+1400,ashif mawji,angel,calgary,canada,unknown,unknown
+1401,ashley graham,angel,lincoln,usa,unknown,unknown
+1402,assurant growth investing,venture capital,atlanta,usa,unknown,unknown
+1403,at one ventures,venture capital,unknown,usa,agtech,seed
+1404,atb private equity,private equity firm,edmonton,canada,edtech,series a
+1405,atlassian ventures,venture capital,sydney,australia,data,series b
+1406,atrium ventures,venture capital,unknown,canada,unknown,unknown
+1407,aubrey rosenhek,angel,unknown,unknown,unknown,unknown
+1408,audible capital,venture capital,toronto,canada,unknown,unknown
+1409,aurelia ventures,"accelerator, venture capital",santa barbara,usa,unknown,unknown
+1410,austin rief,angel,new york,usa,unknown,unknown
+1411,av8 ventures,venture capital,palo alto,usa,unknown,unknown
+1412,aventrock ventures,venture capital,calgary,canada,unknown,unknown
+1413,aviram jenik,angel,cupertino,usa,unknown,unknown
+1414,axion ventures inc.,"incubator, venture capital",vancouver,canada,unknown,unknown
+1415,aydin mirzaee,angel,ottawa,canada,unknown,unknown
+1416,azimuth capital management,private equity firm,calgary,canada,unknown,unknown
+1417,b capital group,venture capital,manhattan beach,usa,unknown,unknown
+1418,bain capital double impact fund,private equity firm,boston,usa,unknown,unknown
+1419,banana capital,venture capital,unknown,usa,unknown,unknown
+1420,bantam group,angel group,westwood,usa,unknown,unknown
+1421,barney pell,angel,san francisco,usa,unknown,unknown
+1422,barrel ventures,venture capital,chicago,usa,unknown,unknown
+1423,basecamp fund,venture capital,new york,usa,devtech,seed
+1424,basement fund,venture capital,new york,usa,unknown,unknown
+1425,bashar hamood,angel,united arab emirates,unknown,unknown,unknown
+1426,baskar puvanathasan,angel,unknown,unknown,unknown,unknown
+1427,bastian lehmann,angel,san francisco,usa,unknown,unknown
+1428,bay city capital,venture capital,san francisco,usa,unknown,unknown
+1429,bay partners,venture capital,menlo park,usa,saas,series b
+1430,bcg digital ventures,"micro vc, venture capital",manhattan beach,usa,unknown,unknown
+1431,bdmi,venture capital,new york,usa,unknown,unknown
+1432,bedrock capital,"private equity firm, venture capital",new york,usa,unknown,unknown
+1433,beehive capital,venture capital,toronto,canada,unknown,unknown
+1434,ben narasin,angel,san francisco,usa,unknown,unknown
+1435,benjamin lightburn,angel,british columbia,north america,unknown,unknown
+1436,beresford ventures,venture capital,delray beach,usa,unknown,unknown
+1437,berkeley skydeck,accelerator,berkeley,usa,unknown,unknown
+1438,bertelsmann investments,venture capital,gütersloh,germany,unknown,unknown
+1439,betaworks,micro vc,new york,usa,ai,seed
+1440,bethmann lombard bancorp,"private equity firm, venture capital",winnipeg,canada,adtech,seed
+1441,better food ventures,"micro vc, venture capital",menlo park,usa,unknown,unknown
+1442,bgs venture,venture capital,toronto,canada,unknown,unknown
+1443,bill smith,angel,birmingham,usa,ecommerce,seed
+1444,bioindustrial innovation canada,micro vc,sarnia,canada,unknown,unknown
+1445,birchcliff partners lp,venture capital,calgary,canada,unknown,unknown
+1446,blaine labonte,angel,unknown,unknown,unknown,unknown
+1447,blisce,venture capital,new york,usa,unknown,unknown
+1448,blue bear capital,venture capital,beverly hills,usa,cleantech,seed
+1449,blue coast ventures,venture capital,panama city,panama,unknown,unknown
+1450,blueprint equity,"private equity firm, venture capital",solana beach,usa,traveltech,series a
+1451,boardwalk ventures,venture capital,bc,canada,unknown,unknown
+1452,boehringer ingelheim venture fund,venture capital,ingelheim am rhein,germany,unknown,unknown
+1453,bond bakery brands,venture capital,toronto,canada,unknown,unknown
+1454,bootstrapped debt financing,angel,leeds,europe,unknown,unknown
+1455,boreal ventures,venture capital,montreal,canada,saas,seed
+1456,boris wertz,angel,vancouver,canada,unknown,unknown
+1457,born capital,micro vc,alpharetta,usa,ai,seed
+1458,borun capital,venture capital,unknown,china,unknown,unknown
+1459,boutique venture partners,venture capital,palo alto,usa,unknown,unknown
+1460,bradley shaw,angel,unknown,unknown,unknown,unknown
+1461,branded hospitality ventures,"accelerator, incubator, venture capital",new york,usa,unknown,unknown
+1462,bread and butter ventures,"micro vc, venture capital",saint paul,usa,unknown,unknown
+1463,breakthrough energy ventures,venture capital,paris,france,unknown,unknown
+1464,brent belzberg,angel,unknown,unknown,unknown,unknown
+1465,brian craig,angel,london,united kingdom,unknown,unknown
+1466,brian norgard,angel,los angeles,usa,unknown,unknown
+1467,brian pokorny,angel,san francisco,usa,unknown,unknown
+1468,brigus capital,private equity firm,halifax,canada,unknown,unknown
+1469,brinc,"accelerator, venture capital",central,hong kong,unknown,unknown
+1470,bruce mckean,angel,unknown,unknown,unknown,unknown
+1471,bryan baum,angel,los angeles,usa,unknown,unknown
+1472,bryan w. kerdman,angel,toronto,canada,unknown,unknown
+1473,bt growth capital,micro vc,unknown,usa,unknown,unknown
+1474,btomorrow ventures,"venture capital, venture capital",unknown,united kingdom,unknown,unknown
+1475,build ventures,venture capital,halifax,canada,cybersecurity,seed
+1476,buildgroup,"private equity firm, venture capital",austin,usa,saas,series c
+1477,business opportunities for l'oréal development,venture capital,clichy,france,unknown,unknown
+1478,c2 ventures,venture capital,new york,usa,ai,pre-seed
+1479,c3e - center of excellence in energy efficiency,venture capital,unknown,canada,unknown,unknown
+1480,camber creek,micro vc,washington,usa,saas,series b
+1481,canoe financial,private equity firm,calgary,canada,greentech,unknown
+1482,canopy rivers,venture capital,toronto,canada,unknown,unknown
+1483,cantos,"micro vc, venture capital",san francisco,usa,unknown,unknown
+1484,canvas ventures,venture capital,portola valley,usa,platform,series a
+1485,capital v,micro vc,unknown,belgium,unknown,unknown
+1486,carol leaman,angel,kitchener,canada,unknown,unknown
+1487,cascade seed fund,venture capital,bend,usa,unknown,unknown
+1488,catherine wood,angel,new york,usa,unknown,unknown
+1489,cavallo ventures,venture capital,san francisco,usa,agtech,series a
+1490,cdh investments,private equity firm,kowloon city,hong kong,unknown,unknown
+1491,ceas investments,angel group,delray beach,usa,"devtech, edtech",seed
+1492,ceniarth,venture capital,san francisco,usa,unknown,unknown
+1493,centregold capital,micro vc,fremont,usa,unknown,unknown
+1494,chadi farah,angel,unknown,unknown,unknown,unknown
+1495,chanda carr,angel,unknown,unknown,unknown,unknown
+1496,charles odita,angel,unknown,unknown,unknown,unknown
+1497,chase cameron utley,angel,miami,usa,unknown,unknown
+1498,chelsea handler,angel,ottawa,canada,unknown,unknown
+1499,chileglobal ventures,venture capital,vitacura,chile,unknown,unknown
+1500,china life healthcare fund,venture capital,unknown,china,unknown,unknown
+1501,china merchants capital,venture capital,shenzhen,china,unknown,unknown
+1502,chinaccelerator,accelerator,shanghai,china,unknown,unknown
+1503,chris aniszczyk,angel,austin,usa,unknown,unknown
+1504,chris simair,angel,canada,unknown,unknown,unknown
+1505,christian reber,angel,berlin,germany,unknown,unknown
+1506,cic capital ventures,venture capital,paris,france,unknown,unknown
+1507,cigna ventures,"venture capital, venture capital",bloomfield,usa,unknown,unknown
+1508,circleup,"private equity firm, venture capital",san francisco,usa,unknown,unknown
+1509,cisco,venture capital,san jose,usa,unknown,unknown
+1510,civc partners,private equity firm,chicago,usa,unknown,unknown
+1511,clairvest group,private equity firm,toronto,canada,analytics,seed
+1512,claritas capital,private equity firm,nashville,usa,healthtech,series b
+1513,click ventures,venture capital,hong kong,hong kong,unknown,unknown
+1514,climate innovation capital,venture capital,unknown,canada,hardware,series b
+1515,climate pledge fund,venture capital,unknown,usa,unknown,unknown
+1516,co-creation hub nigeria,accelerator,lagos,nigeria,unknown,unknown
+1517,cobalt capital,venture capital,santa monica,usa,unknown,unknown
+1518,cody fauser,angel,unknown,unknown,unknown,unknown
+1519,cody ko,angel,unknown,unknown,unknown,unknown
+1520,cogito capital,"private equity firm, venture capital",toronto,canada,unknown,unknown
+1521,colin harris,angel,unknown,unknown,unknown,unknown
+1522,collaborative fund,micro vc,new york,usa,unknown,unknown
+1523,collin terpstra,angel,unknown,unknown,unknown,unknown
+1524,colt ventures,private equity firm,dallas,usa,unknown,unknown
+1525,communitas asset management,venture capital,new york,usa,unknown,unknown
+1526,concentric capital,venture capital,vancouver,canada,unknown,unknown
+1527,conexus financial partners,venture capital,bridgewater,usa,unknown,unknown
+1528,contrary,venture capital,san francisco,usa,unknown,unknown
+1529,copley equity partners,private equity firm,boston,usa,unknown,unknown
+1530,corazon capital,micro vc,chicago,usa,unknown,unknown
+1531,correlation ventures,venture capital,san diego,usa,unknown,unknown
+1532,cortexnord capital,venture capital,quebec,canada,unknown,unknown
+1533,cowen healthcare investments,venture capital,new york,usa,unknown,unknown
+1534,cowie capital partners,private equity firm,toronto,canada,"logisticstech, propertytech","seed, series a"
+1535,cowin venture,angel group,beijing,china,unknown,unknown
+1536,cpp investments,pension funds,toronto,canada,biotech,series c
+1537,craig lothian,angel,unknown,unknown,unknown,unknown
+1538,creator fund,venture capital,london,united kingdom,unknown,unknown
+1539,crux capital,venture capital,menlo park,usa,unknown,unknown
+1540,crv,venture capital,palo alto,usa,unknown,unknown
+1541,cryptomeria capital,venture capital,singapore,singapore,unknown,unknown
+1542,csl ventures,venture capital,unknown,usa,unknown,unknown
+1543,cti life sciences fund,venture capital,montreal,canada,unknown,unknown
+1544,cultivator,incubator,regina,canada,unknown,unknown
+1545,cureduchenne ventures,private equity firm,unknown,usa,unknown,unknown
+1546,dan capelle,angel,waterloo,canada,unknown,unknown
+1547,dan park,angel,toronto,canada,unknown,unknown
+1548,dan shea,angel,unknown,unknown,unknown,unknown
+1549,dan simair,angel,saskatoon,canada,unknown,unknown
+1550,dan teran,angel,new york,usa,unknown,unknown
+1551,daniel iliescu,angel,toronto,canada,unknown,unknown
+1552,danny zhang,angel,san francisco bay area,usa,unknown,unknown
+1553,dash ventures,venture capital,amman,jordan,unknown,unknown
+1554,dave rai,angel,brampton,canada,unknown,unknown
+1555,david arsenault,angel,montreal,canada,unknown,unknown
+1556,david dube,angel,saskatoon,canada,hardware,seed
+1557,david finocchio,angel,san francisco,usa,unknown,unknown
+1558,david northington,angel,birmingham,usa,unknown,unknown
+1559,david siegel,angel,white plains,usa,unknown,unknown
+1560,day one ventures,micro vc,san francisco,usa,fintech,seed
+1561,dcvc bio,venture capital,san francisco,usa,unknown,unknown
+1562,delta-v capital,private equity firm,boulder,usa,unknown,unknown
+1563,dennie james,angel,canada,unknown,unknown,unknown
+1564,density ventures,micro vc,toronto,canada,unknown,unknown
+1565,des traynor,angel,dublin,ireland,unknown,unknown
+1566,devon townsend,angel,los angeles,usa,martech,seed
+1567,digitaldx ventures,venture capital,menlo park,usa,healthtech,series a
+1568,dimeji sofowora,angel,nigeria,unknown,unknown,unknown
+1569,thomas pentz,angel,los angeles,usa,unknown,unknown
+1570,dispatch ventures,venture capital,quebec,canada,"saas, ecommerce","pre-seed, seed"
+1571,dlab,"accelerator, incubator, venture capital",new york,usa,unknown,unknown
+1572,dominique beaupre,angel,edmonton,canada,unknown,unknown
+1573,donnelley family,angel group,unknown,usa,unknown,unknown
+1574,douglas gray,angel,calgary,canada,unknown,unknown
+1575,down under capital,venture capital,unknown,australia,unknown,unknown
+1576,dr abdul malek al jaber,angel,unknown,unknown,unknown,unknown
+1577,draft ventures,venture capital,san francisco,usa,unknown,unknown
+1578,draper associates,venture capital,san mateo,usa,unknown,unknown
+1579,draper cygnus,venture capital,buenos aires,argentina,unknown,unknown
+1580,draper dragon,venture capital,san mateo,usa,unknown,unknown
+1581,dream maker ventures,venture capital,toronto,canada,logisticstech,series a
+1582,drone fund,venture capital,tokyo,japan,unknown,unknown
+1583,dsm venturing,venture capital,heerlen,the netherlands,unknown,unknown
+1584,dux capital,micro vc,mexico city,mexico,unknown,unknown
+1585,dynamk capital,"private equity firm, venture capital",new york,usa,biotech,series a
+1586,dynamo,micro vc,chattanooga,usa,unknown,unknown
+1587,east chain co.,venture capital,grand cayman,cayman islands,unknown,unknown
+1588,echelon capital,venture capital,evanston,usa,unknown,unknown
+1589,economic development of canada,venture capital,val-d'or,canada,unknown,unknown
+1590,edmond olotu,angel,unknown,unknown,unknown,unknown
+1591,edovate capital,venture capital,denver,usa,unknown,unknown
+1592,edward lando,angel,san francisco,usa,unknown,unknown
+1593,egads group,angel group,unknown,canada,unknown,unknown
+1594,eight roads ventures,venture capital,london,united kingdom,unknown,unknown
+1595,eke eleanya,angel,unknown,unknown,unknown,unknown
+1596,ela capital,venture capital,unknown,canada,unknown,unknown
+1597,elaia,venture capital,paris,france,unknown,unknown
+1598,eldridge,private equity firm,greenwich,usa,unknown,unknown
+1599,elevation investments,angel group,vienna,austria,unknown,unknown
+1600,elkland capital,venture capital,unknown,canada,unknown,unknown
+1601,emerald technology ventures,private equity firm,zürich,switzerland,unknown,unknown
+1602,emergence capital,venture capital,lekki,nigeria,devtech,seed
+1603,emerging ventures,venture capital,unknown,usa,unknown,unknown
+1604,emerson collective,"angel group, venture capital",palo alto,usa,unknown,unknown
+1605,emily kramer,angel,san francisco,usa,unknown,unknown
+1606,empowered startups,"accelerator, incubator",vancouver,canada,unknown,unknown
+1607,enbridge,venture capital,calgary,canada,unknown,unknown
+1608,encap investments,private equity firm,houston,usa,unknown,unknown
+1609,energia ventures,accelerator,fredericton,canada,unknown,unknown
+1610,energy foundry,venture capital,chicago,usa,unknown,unknown
+1611,energy impact partners,venture capital,new york,usa,unknown,unknown
+1612,energy innovation capital,venture capital,san francisco,usa,unknown,unknown
+1613,enertech capital,"venture capital, private equity firm, venture capital",ambler,usa,saas,series b
+1614,eniac ventures,venture capital,new york,usa,unknown,unknown
+1615,enlightened hospitality investments,venture capital,new york,usa,saas,series b
+1616,entrepreneur first,"accelerator, venture capital",london,united kingdom,martech,pre-seed
+1617,epiq capital group,angel group,san francisco,usa,hardware,series b
+1618,epstein enterprises inc.,venture capital,toronto,canada,unknown,unknown
+1619,equinor technology ventures,venture capital,stavanger,norway,unknown,unknown
+1620,equinor ventures,venture capital,unknown,norway,analytics,"series a, series b"
+1621,eric feldman,angel,san francisco,usa,unknown,unknown
+1622,eric patel,angel,unknown,unknown,unknown,unknown
+1623,eric ries,angel,san francisco,usa,unknown,unknown
+1624,erol e. uzumeri,angel,toronto,canada,unknown,unknown
+1625,eros resmini,angel,san francisco,usa,unknown,unknown
+1626,ethan song,angel,montreal,canada,unknown,unknown
+1627,ethos partners,venture capital,singapore,singapore,unknown,unknown
+1628,eurazeo,private equity firm,paris,france,unknown,unknown
+1629,evergreen coast capital,private equity firm,menlo park,usa,saas,series c
+1630,evergy ventures,"venture capital, venture capital",kansas city,usa,unknown,unknown
+1631,evolution vc partners,venture capital,new york,usa,unknown,unknown
+1632,expert dojo,accelerator,santa monica,usa,unknown,unknown
+1633,explorer equity group,"private equity firm, venture capital",north palm beach,usa,unknown,unknown
+1634,factor[e] ventures,venture capital,fort collins,usa,unknown,unknown
+1635,fall line capital,private equity firm,san mateo,usa,unknown,unknown
+1636,fanchuang capital,venture capital,beijing,china,unknown,unknown
+1637,fastercapital,"accelerator, incubator, venture capital",dubai,united arab emirates,unknown,unknown
+1638,felix capital,venture capital,london,united kingdom,unknown,unknown
+1639,felton group llc,venture capital,goshen,usa,unknown,unknown
+1640,fengate asset management,private equity firm,toronto,canada,unknown,unknown
+1641,fidelity international strategic ventures,venture capital,london,united kingdom,unknown,unknown
+1642,fifty years,"micro vc, venture capital",san francisco,usa,biotech,seed
+1643,fika ventures,venture capital,los angeles,usa,cleantech,seed
+1644,first block capital,venture capital,vancouver,canada,unknown,unknown
+1645,first fund,micro vc,vancouver,canada,unknown,unknown
+1646,first round capital,venture capital,san francisco,usa,fintech,seed
+1647,first serve partners,"private equity firm, venture capital",miami,usa,unknown,unknown
+1648,five arrows principal investments,private equity firm,paris,france,unknown,unknown
+1649,flat6labs egypt,venture capital,cairo,egypt,unknown,unknown
+1650,flight deck capital,venture capital,san francisco,usa,marketplace,series b
+1651,flying fish partners,micro vc,seattle,usa,unknown,unknown
+1652,fondaction,venture capital,clarke city,canada,platform,seed
+1653,food-x,accelerator,new york,usa,unknown,unknown
+1654,foothill ventures,micro vc,los altos,usa,unknown,unknown
+1655,forbion capital partners,venture capital,naarden,the netherlands,unknown,unknown
+1656,form capital,venture capital,unknown,usa,unknown,unknown
+1657,formentera capital,venture capital,montreal,canada,unknown,unknown
+1658,forward venture capital,venture capital,den haag,the netherlands,unknown,unknown
+1659,foundry,venture capital,boulder,usa,unknown,unknown
+1660,francis shen,angel,unknown,unknown,unknown,unknown
+1661,frederic kerrest,angel,san francisco,usa,unknown,unknown
+1662,freestyle,venture capital,san francisco,usa,unknown,unknown
+1663,friends & family,angel,unknown,unknown,unknown,unknown
+1664,frind properties,angel group,vancouver,canada,marketplace,seed
+1665,furong capital,venture capital,shanghai,china,unknown,unknown
+1666,fusion ventures,"private equity firm, venture capital",toronto,canada,unknown,unknown
+1667,g. scott paterson,angel,unknown,unknown,unknown,unknown
+1668,g2vp,venture capital,menlo park,usa,unknown,unknown
+1669,galaxy digital,private equity firm,new york,usa,"blockchain, cybersecurity","series a, series b"
+1670,gary diorio,angel,greater atlanta area,usa,unknown,unknown
+1671,gc angels,angel group,unknown,england,unknown,unknown
+1672,gci,private equity firm,waukesha,usa,unknown,unknown
+1673,gelt vc,venture capital,los angeles,usa,hrtech,pre-seed
+1674,genblock capital,venture capital,san francisco,usa,unknown,unknown
+1675,genesis centre,"accelerator, incubator",st. john's,canada,unknown,unknown
+1676,genome british columbia,venture capital,vancouver,canada,unknown,unknown
+1677,georges karam,angel,montreal,canada,unknown,unknown
+1678,gestion chamarin,angel,unknown,unknown,unknown,unknown
+1679,gfr fund,micro vc,san francisco,usa,paas,series a
+1680,giant ventures,venture capital,london,united kingdom,unknown,unknown
+1681,glenn hayter,angel,unknown,unknown,unknown,unknown
+1682,globivest,"angel group, venture capital",beirut,lebanon,biotech,series a
+1683,goahead ventures,venture capital,menlo park,usa,platform,pre-seed
+1684,good & well,venture capital,toronto,canada,unknown,unknown
+1685,goodwater capital,venture capital,burlingame,usa,"marketplace, saas",seed
+1686,gotham green partners,"private equity firm, venture capital",santa monica,usa,unknown,unknown
+1687,gpi capital,private equity firm,new york,usa,traveltech,unknown
+1688,grace chou,angel,san francisco,usa,unknown,unknown
+1689,graphene ventures,venture capital,palo alto,usa,unknown,unknown
+1690,green acre capital,"private equity firm, venture capital",toronto,canada,unknown,unknown
+1691,greencap equity,venture capital,lekki,nigeria,unknown,unknown
+1692,greenfire bio,venture capital,austin,usa,unknown,unknown
+1693,greensoil investments,venture capital,ra'anana,israel,unknown,unknown
+1694,greensoil proptech ventures,"private equity firm, venture capital",toronto,canada,unknown,unknown
+1695,greg blake,angel,unknown,unknown,unknown,unknown
+1696,greg isenberg,angel,san francisco,usa,unknown,unknown
+1697,greg kwong,angel,unknown,unknown,unknown,unknown
+1698,greg sheldon,angel,canada,unknown,unknown,unknown
+1699,greyhound capital,"private equity firm, venture capital",london,united kingdom,fintech,series b
+1700,griffin johnson,angel,unknown,unknown,unknown,unknown
+1701,growthworks capital,venture capital,vancouver,canada,unknown,unknown
+1702,gula tech adventures,venture capital,ellicott city,usa,saas,series a
+1703,h&m co:lab,venture capital,stockholm,sweden,unknown,unknown
+1704,halvings capital,venture capital,barcelona,spain,unknown,unknown
+1705,hannibal buress,angel,unknown,unknown,unknown,unknown
+1706,hassad food,venture capital,doha,qatar,unknown,unknown
+1707,hatch ventures,accelerator,vancouver,canada,unknown,unknown
+1708,hatcher+,"micro vc, venture capital",singapore,singapore,unknown,unknown
+1709,hdg inc,"private equity firm, venture capital",quebec,canada,unknown,unknown
+1710,heartland,"private equity firm, venture capital",aarhus,denmark,misc,seed
+1711,heights capital management,private equity firm,san francisco,usa,unknown,unknown
+1712,helen min,angel,san francisco,usa,unknown,unknown
+1713,henon capital,"private equity firm, venture capital",toronto,canada,fintech,pre-seed
+1714,hesham zreik,angel,dubai,united arab emirates,unknown,unknown
+1715,hg ventures,venture capital,indianapolis,usa,unknown,unknown
+1716,higher ground labs,micro vc,chicago,usa,unknown,unknown
+1717,hilary duff,angel,unknown,unknown,unknown,unknown
+1718,hiro capital,venture capital,luxembourg,luxembourg,unknown,unknown
+1719,hiten shah,angel,san francisco,usa,unknown,unknown
+1720,hof capital,venture capital,new york,usa,fintech,series b
+1721,holdun family office,unknown,nassau,bahamas,ai,series a
+1722,holland george capital management,angel group,new york,usa,unknown,unknown
+1724,horizon capital,private equity firm,london,united kingdom,healthtech,seed
+1725,hp tech ventures,venture capital,palo alto,usa,unknown,unknown
+1726,hub angels investment group,angel group,boston,usa,cybersecurity,"pre-seed, seed"
+1727,huda idrees,angel,toronto,canada,unknown,unknown
+1728,humanitas smart planet systems,venture capital,vancouver,canada,unknown,unknown
+1729,"hwvp, hummer winblad venture partners",venture capital,san francisco,usa,unknown,unknown
+1730,ibi group,venture capital,unknown,canada,unknown,unknown
+1731,icm capital,venture capital,london,united kingdom,unknown,unknown
+1732,id8 investments,venture capital,new york,usa,unknown,unknown
+1733,iglobe partners,venture capital,singapore,singapore,unknown,unknown
+1734,ignacio plaza,angel,unknown,unknown,unknown,unknown
+1735,ignition partners,venture capital,los altos,usa,unknown,unknown
+1736,imaginary ventures,micro vc,new york,usa,unknown,unknown
+1737,inerjys,venture capital,montreal,canada,unknown,unknown
+1738,infinite ventures,micro vc,ottawa,canada,unknown,unknown
+1739,infinity capital,micro vc,menlo park,usa,unknown,unknown
+1740,ingka group,venture capital,leiden,the netherlands,unknown,unknown
+1741,innovating capital,venture capital,new york,usa,unknown,unknown
+1742,inp capital,venture capital,vancouver,canada,healthtech,series a
+1743,insignius capital,venture capital,unknown,sweden,unknown,unknown
+1744,institutional venture partners,venture capital,menlo park,usa,unknown,unknown
+1745,interlace ventures,"micro vc, venture capital",new york,usa,unknown,unknown
+1746,intonation ventures,"micro vc, venture capital",new york,usa,blockchain,pre-seed
+1747,investeco capital,micro vc,toronto,canada,unknown,unknown
+1748,iris capital,venture capital,paris,france,unknown,unknown
+1749,island capital partners,venture capital,unknown,canada,unknown,unknown
+1750,ivan zak,angel,saint john,canada,unknown,unknown
+1751,j. taylor crandall,angel,unknown,unknown,unknown,unknown
+1752,jack herrick,angel,san francisco bay area,usa,unknown,unknown
+1753,jam fund,venture capital,las vegas,usa,unknown,unknown
+1754,james freeman,angel,edmonton,canada,unknown,unknown
+1755,jamie mcdonald,angel,toronto,canada,unknown,unknown
+1756,jamie quint,angel,san francisco,usa,unknown,unknown
+1757,janus henderson investors,private equity firm,london,united kingdom,unknown,unknown
+1758,jasmine lorimer,angel,unknown,unknown,unknown,unknown
+1759,jason sawyer,angel,toronto,canada,unknown,unknown
+1760,jason warner,angel,san francisco,usa,devtech,seed
+1761,jay brown,angel,new york,usa,unknown,unknown
+1762,jdrf t1d fund,venture capital,boston,usa,unknown,unknown
+1763,"jds sports, llc",venture capital,new york,usa,unknown,unknown
+1764,jean-francois gagne,angel,montreal,canada,unknown,unknown
+1765,jean-michel texier,angel,unknown,unknown,unknown,unknown
+1766,jeff chang,angel,san francisco,usa,unknown,unknown
+1767,jeff fettes,angel,winnipeg,canada,unknown,unknown
+1768,jeff jordan,angel,san francisco,usa,unknown,unknown
+1769,jeff rich,angel,dallas,usa,unknown,unknown
+1770,jennifer lum,angel,boston,usa,unknown,unknown
+1771,jerry neumann,angel,new york,usa,unknown,unknown
+1772,jim murphy,angel,waterloo,canada,unknown,unknown
+1773,joe canavan,angel,toronto,canada,unknown,unknown
+1774,joe mimran,angel,unknown,unknown,unknown,unknown
+1775,john baker,angel,kitchener,canada,unknown,unknown
+1776,john bell,angel,cambridge,canada,hardware,seed
+1777,john cammett,angel,baltimore,usa,unknown,unknown
+1778,john carswell,angel,unknown,unknown,unknown,unknown
+1779,john curtis,angel,vancouver,canada,unknown,unknown
+1780,john flanagan,angel,toronto,canada,unknown,unknown
+1781,john francis,angel,toronto,canada,unknown,unknown
+1782,john stokes,angel,montreal,canada,unknown,unknown
+1783,jonathan beri,angel,san francisco,usa,devtech,seed
+1784,jonathan ross goodman,angel,unknown,unknown,unknown,unknown
+1785,jonathan seaton,angel,sheffield,united kingdom,unknown,unknown
+1786,jornic ventures,venture capital,unknown,canada,unknown,unknown
+1787,josé neves,angel,london,united kingdom,unknown,unknown
+1788,josh buckley,angel,unknown,unknown,unknown,unknown
+1789,josh richards,angel,unknown,unknown,unknown,unknown
+1790,joshua landy,angel,unknown,unknown,unknown,unknown
+1791,juan felipe gonzalez hidalgo,angel,andorra,unknown,unknown,unknown
+1792,jules walter,angel,unknown,unknown,unknown,unknown
+1793,julien martel,angel,unknown,unknown,unknown,unknown
+1794,jumpstart foundry,"accelerator, venture capital",nashville,usa,unknown,unknown
+1795,june fund,"private equity firm, venture capital",berlin,germany,unknown,unknown
+1796,just business,incubator,san francisco,usa,cleantech,unknown
+1797,justin mateen,angel,united states,unknown,unknown,unknown
+1798,jw asset management,venture capital,new york,usa,unknown,unknown
+1799,karpreilly,private equity firm,greenwich,usa,unknown,unknown
+1800,katapult ocean,accelerator,oslo,norway,unknown,unknown
+1801,katelin holloway,angel,san francisco,usa,unknown,unknown
+1802,kayne partners,private equity firm,los angeles,usa,ecommerce,series b
+1803,kb partners,venture capital,highland park,usa,unknown,unknown
+1804,kearny venture partners,venture capital,san francisco,usa,unknown,unknown
+1805,kenneth s. code,angel,unknown,unknown,unknown,unknown
+1806,kensington capital partners,"private equity firm, venture capital",toronto,canada,unknown,unknown
+1807,kes 7 capital,venture capital,toronto,canada,unknown,unknown
+1808,kevin liles,angel,unknown,unknown,unknown,unknown
+1809,kevin lin,angel,san francisco,usa,unknown,unknown
+1810,kevin o'leary,angel,boston,usa,unknown,unknown
+1811,kevin pan,angel,shanghai,china,unknown,unknown
+1812,kevin walton,angel,unknown,unknown,unknown,unknown
+1813,kim kaplan,angel,vancouver,canada,unknown,unknown
+1814,kima ventures,micro vc,paris,france,marketplace,seed
+1815,kirk simpson,angel,toronto,canada,unknown,unknown
+1816,kjsm ventures,venture capital,calgary,canada,foodtech,seed
+1817,klister credit,private equity firm,toronto,canada,unknown,unknown
+1818,knudsen capital,angel group,los gatos,usa,unknown,unknown
+1819,koch strategic platforms,venture capital,wichita,usa,unknown,unknown
+1820,konvoy ventures,micro vc,denver,usa,paas,series a
+1821,korea investment partners,"private equity firm, venture capital",seoul,south korea,unknown,unknown
+1822,kurt whipp,angel,blackpool,europe,unknown,unknown
+1823,kymbask investments,venture capital,unknown,canada,unknown,unknown
+1824,lance priebe,angel,british columbia,north america,unknown,unknown
+1825,lane merrifield,angel,vancouver,canada,unknown,unknown
+1826,larry marcus,angel,san francisco,usa,unknown,unknown
+1827,launch,"accelerator, venture capital",san francisco,usa,unknown,unknown
+1828,laurie wallace,angel,vancouver,canada,unknown,unknown
+1829,lead edge capital,venture capital,new york,usa,unknown,unknown
+1830,lee fixel,angel,new york,usa,logisticstech,series a
+1831,lee lau,angel,toronto,canada,unknown,unknown
+1832,lego ventures,"venture capital, venture capital",billund,denmark,unknown,unknown
+1833,lennar ventures,venture capital,unknown,usa,unknown,unknown
+1834,lennox claudius lewis,angel,montego bay,jamaica,unknown,unknown
+1835,lenny rachitsky,angel,unknown,unknown,unknown,unknown
+1836,leonard latchman,angel,unknown,unknown,unknown,unknown
+1837,leonard teo,angel,montreal,canada,unknown,unknown
+1838,les whiting,angel,unknown,unknown,unknown,unknown
+1839,lev ekster,angel,new york,usa,unknown,unknown
+1840,leva capital,"private equity firm, venture capital",toronto,canada,platform,pre-seed
+1841,lex capital,private equity firm,regina,canada,unknown,unknown
+1842,lg technology ventures,venture capital,santa clara,usa,unknown,unknown
+1843,liberty global,venture capital,london,united kingdom,paas,series a
+1844,life sciences partners,private equity firm,amsterdam,the netherlands,unknown,unknown
+1845,lightheart management partners,private equity firm,vancouver,canada,unknown,unknown
+1846,liontree,venture capital,new york,usa,unknown,unknown
+1847,lip-bu tan,angel,san jose,usa,unknown,unknown
+1848,lisa shields,angel,vancouver,canada,unknown,unknown
+1849,lockheed martin ventures,venture capital,bethesda,usa,unknown,unknown
+1850,loftyinc capital management,venture capital,carmel,usa,unknown,unknown
+1851,loic le meur,angel,san francisco,usa,unknown,unknown
+1852,lombardstreet ventures,venture capital,menlo park,usa,unknown,unknown
+1853,lorem partners,"private equity firm, venture capital",calgary,canada,greentech,unknown
+1854,louis charbonneau,angel,unknown,unknown,unknown,unknown
+1855,louis vachon,angel,unknown,unknown,unknown,unknown
+1856,lp maurice,angel,montreal,canada,unknown,unknown
+1857,luca ventures,micro vc,san francisco,usa,unknown,unknown
+1858,lucas peltonen,angel,unknown,unknown,unknown,unknown
+1859,lvl1 group,"angel group, venture capital",limassol,cyprus,healthtech,series d
+1860,mac reddin,angel,new york,usa,devtech,seed
+1861,madrona venture group,venture capital,seattle,usa,platform,seed
+1862,magic fund,"accelerator, micro vc, venture capital",los angeles,usa,martech,seed
+1863,malex enterprises,venture capital,chicago,usa,unknown,unknown
+1864,manifold,venture capital,chicago,usa,unknown,unknown
+1865,manik gupta,angel,los altos,usa,unknown,unknown
+1866,maninder dhaliwal,angel,vancouver,canada,unknown,unknown
+1867,manjit minhas,angel,calgary,canada,unknown,unknown
+1868,mansour alrayes,angel,vancouver,canada,unknown,unknown
+1869,marc mccabe,angel,san francisco,usa,unknown,unknown
+1870,marc morin,angel,waterloo,canada,unknown,unknown
+1871,marc poulin,angel,unknown,unknown,unknown,unknown
+1872,march capital,venture capital,santa monica,usa,unknown,unknown
+1873,marcy venture partners,micro vc,san francisco,usa,unknown,unknown
+1874,maria hwang,angel,unknown,unknown,unknown,unknown
+1875,mariano conti,angel,argentina,unknown,unknown,unknown
+1876,marigold capital,micro vc,toronto,canada,unknown,unknown
+1877,mark cowie,angel,unknown,unknown,unknown,unknown
+1878,mark mastrov,angel,unknown,unknown,unknown,unknown
+1879,mark miller,angel,canada,unknown,unknown,unknown
+1880,markus frind,angel,vancouver,canada,unknown,unknown
+1881,maschmeyer group ventures,"micro vc, venture capital",san francisco,usa,hrtech,pre-seed
+1882,matias marquez,angel,vancouver,canada,unknown,unknown
+1883,matrix partners,venture capital,san francisco,usa,unknown,unknown
+1884,matthew cowan,angel,new york,usa,unknown,unknown
+1885,matthew tucker,angel,unknown,unknown,unknown,unknown
+1886,maureen o'higgins,angel,unknown,unknown,unknown,unknown
+1887,maveron,venture capital,san francisco,usa,unknown,unknown
+1888,mavrik,angel group,montreal,canada,unknown,unknown
+1889,max mullen,angel,san francisco,usa,unknown,unknown
+1890,max ventures,venture capital,new york,usa,unknown,unknown
+1891,mayank kale,angel,unknown,unknown,unknown,unknown
+1892,mazarine ventures,venture capital,chicago,usa,cleantech,seed
+1893,melissa prescott,angel,unknown,unknown,unknown,unknown
+1894,melissa tan,angel,unknown,unknown,unknown,unknown
+1895,mendoza ventures,venture capital,boston,usa,unknown,unknown
+1896,mercanti management,venture capital,hamilton,canada,unknown,unknown
+1897,merida capital holdings,"private equity firm, venture capital",new york,usa,unknown,unknown
+1898,metacartel ventures,venture capital,unknown,canada,unknown,unknown
+1899,metaconomy capital,venture capital,istanbul,turkey,unknown,unknown
+1900,mgnr.io,micro vc,unknown,singapore,unknown,unknown
+1901,mgv capital group,"micro vc, venture capital",san antonio,usa,martech,pre-seed
+1902,michael karn,angel,unknown,unknown,unknown,unknown
+1903,michael mina,angel,unknown,unknown,unknown,unknown
+1904,michael mulcahy,angel,unknown,unknown,unknown,unknown
+1905,michael nashat,angel,unknown,unknown,hardware,seed
+1906,michael vanderkaden,angel,toronto,canada,unknown,unknown
+1907,michael zych,angel,unknown,unknown,unknown,unknown
+1908,micheal hyatt,angel,toronto,canada,unknown,unknown
+1909,michel lozeau,angel,montreal,canada,unknown,unknown
+1910,microtraction,micro vc,lagos,nigeria,unknown,unknown
+1911,mig,venture capital,münchen,germany,logisticstech,unknown
+1912,mihoyo,venture capital,shanghai,china,unknown,unknown
+1913,mike cowie,angel,unknown,unknown,unknown,unknown
+1914,mike fata,angel,winnipeg,canada,unknown,unknown
+1915,mike hudack,angel,london,united kingdom,unknown,unknown
+1916,mike janzen,angel,unknown,unknown,unknown,unknown
+1917,mike liverton,angel,unknown,unknown,unknown,unknown
+1918,mike mcderment,angel,unknown,unknown,unknown,unknown
+1919,mindset venture group ltd,venture capital,vancouver,canada,unknown,unknown
+1920,mindset ventures,"micro vc, venture capital",são paulo,brazil,unknown,unknown
+1921,miramichi technology fund,accelerator,unknown,canada,unknown,unknown
+1922,mitch joel,angel,montreal,canada,unknown,unknown
+1923,mitsubishi corporation,venture capital,tokyo,japan,unknown,unknown
+1924,mohammad maaz,angel,unknown,unknown,unknown,unknown
+1925,mohammed alshaikh,angel,vancouver,canada,unknown,unknown
+1926,momenta,venture capital,engelberg,switzerland,unknown,unknown
+1927,moore strategic ventures,venture capital,new york,usa,unknown,unknown
+1928,morningstar ventures,venture capital,dubai,united arab emirates,unknown,unknown
+1929,motivate venture capital,"micro vc, venture capital",chicago,usa,unknown,unknown
+1930,mpm capital,"private equity firm, venture capital",cambridge,usa,unknown,unknown
+1931,mucker capital,accelerator,santa monica,usa,fintech,seed
+1932,murray goldman,angel,unknown,unknown,unknown,unknown
+1933,muse capital,micro vc,los angeles,usa,unknown,unknown
+1934,my climate journey collective,venture capital,boston,usa,unknown,unknown
+1935,naheed kurji,angel,toronto,canada,unknown,unknown
+1936,napier park global capital,private equity firm,new york,usa,unknown,unknown
+1937,narya capital,venture capital,ohio,usa,unknown,unknown
+1938,national grid partners,venture capital,san francisco,usa,unknown,unknown
+1939,natural gas innovation fund,venture capital,ottawa,canada,cleantech,seed
+1940,naval ravikant,angel,san francisco,usa,unknown,unknown
+1941,naventures,venture capital,montreal,canada,unknown,unknown
+1942,nbif’s venture capital fund,venture capital,fredericton,canada,unknown,unknown
+1943,nesta.co,private equity firm,ottawa,canada,unknown,unknown
+1944,neue fund,venture capital,palm springs,usa,unknown,unknown
+1945,new acres capital,micro vc,canada,usa,unknown,unknown
+1946,new avenue capital,venture capital,unknown,canada,fintech,seed
+1947,new media ventures,venture capital,san francisco,usa,unknown,unknown
+1948,new york ventures,venture capital,new york,usa,agtech,seed
+1949,newbound venture capital,venture capital,unknown,usa,unknown,unknown
+1950,newton fund,venture capital,san francisco,usa,unknown,unknown
+1951,next equities,venture capital,edmonton,canada,unknown,unknown
+1953,nfp ventures,venture capital,new york,usa,unknown,unknown
+1954,ngen partners,venture capital,new york,usa,unknown,unknown
+1955,nick robertson,angel,london,united kingdom,unknown,unknown
+1956,nick romano,angel,toronto,canada,unknown,unknown
+1957,nick whalen,angel,unknown,unknown,unknown,unknown
+1958,nicolas bouchard,angel,unknown,unknown,unknown,unknown
+1959,nicolas chapados,angel,montreal,canada,unknown,unknown
+1960,nik sharma,angel,new york,usa,unknown,unknown
+1961,nikita bier,angel,san francisco,usa,unknown,unknown
+1962,nimble ventures,"angel group, venture capital",san francisco,usa,unknown,unknown
+1963,nimbus synergies,venture capital,vancouver,canada,healthtech,"seed, series a, series b"
+1964,nina capital,"micro vc, venture capital",barcelona,spain,data,unknown
+1965,nine four ventures,venture capital,chicago,usa,saas,series b
+1966,nitesh banta,angel,new york,usa,unknown,unknown
+1967,nlabs,venture capital,new york,usa,paas,series a
+1968,noah waisberg,angel,new york,usa,unknown,unknown
+1969,noetic fund,venture capital,toronto,canada,unknown,unknown
+1970,noora alshehhi,angel,unknown,unknown,unknown,unknown
+1971,north america venture fund,venture capital,santa clara,usa,unknown,unknown
+1972,northern private capital (npc),private equity firm,toronto,canada,unknown,unknown
+1973,northumberland community futures development corp.,private equity firm,cobourg,canada,unknown,unknown
+1974,novacap,private equity firm,longueuil,canada,unknown,unknown
+1975,o'leary ventures,venture capital,boston,usa,unknown,unknown
+1976,olugbenga agboola,angel,unknown,unknown,unknown,unknown
+1977,omi velasco,angel,calgary,canada,unknown,unknown
+1978,one net capital,venture capital,unknown,canada,unknown,unknown
+1979,onevalley,"accelerator, venture capital",san mateo,usa,unknown,unknown
+1980,onramp insurance accelerator,accelerator,minneapolis,usa,unknown,unknown
+1981,operator partners,venture capital,new york,usa,unknown,unknown
+1982,oracle investment management inc.,private equity firm,greenwich,usa,unknown,unknown
+1983,orchid asia group management,venture capital,hong kong,hong kong,unknown,unknown
+1984,os fund,venture capital,park ridge,usa,unknown,unknown
+1985,oskar hartmann,angel,moscow,russian federation,unknown,unknown
+1986,otimo retail,micro vc,montreal,canada,unknown,unknown
+1987,ourcrowd,venture capital,jerusalem,israel,unknown,unknown
+1988,outlier ventures base camp,accelerator,london,united kingdom,unknown,unknown
+1989,outsized ventures,venture capital,london,united kingdom,unknown,unknown
+1990,overtime.vc,angel group,san francisco,usa,unknown,unknown
+1991,overton venture capital,"micro vc, venture capital",new york,usa,unknown,unknown
+1992,oxy low carbon ventures,venture capital,houston,usa,unknown,unknown
+1993,oyster ventures,"micro vc, venture capital",san francisco,usa,unknown,unknown
+1994,pallinghurst,venture capital,st. peter port,guernsey,unknown,unknown
+1995,pan-lin capital,venture capital,shanghai,china,unknown,unknown
+1996,pankaj agarwal,angel,bhopal,india,unknown,unknown
+1997,panony,incubator,sheung wan,hong kong,metaverse,seed
+1998,parade ventures,venture capital,san francisco,usa,devtech,seed
+1999,parthesh patel,angel,edmonton,canada,unknown,unknown
+2000,pasadena angels,angel group,altadena,usa,unknown,unknown
+2001,path ventures,venture capital,unknown,usa,unknown,unknown
+2002,patrick patterson,angel,unknown,unknown,unknown,unknown
+2003,"patrick spaulding ryan, phd",angel,san francisco,usa,unknown,unknown
+2004,paul aulakh,angel,edmonton,canada,unknown,unknown
+2005,paul della bitta,angel,san diego,usa,unknown,unknown
+2006,peking university mingde fund,venture capital,haidian,china,unknown,unknown
+2007,peter harrison,angel,washington,usa,unknown,unknown
+2008,peter thiel,angel,san francisco,usa,unknown,unknown
+2009,pfm capital,venture capital,regina,canada,unknown,unknown
+2010,pier 88 investment partners,venture capital,san francisco,usa,paas,series a
+2011,pierre-etienne simard,angel,unknown,unknown,unknown,unknown
+2012,pique ventures,micro vc,vancouver,canada,unknown,unknown
+2013,platform calgary,incubator,calgary,canada,unknown,unknown
+2014,pm equity partner,"venture capital, private equity firm",lausanne,switzerland,agtech,unknown
+2015,pme mtl,private equity firm,montreal,canada,unknown,unknown
+2016,point nine,"micro vc, venture capital",berlin,germany,unknown,unknown
+2017,polar capital management inc.,private equity firm,toronto,canada,unknown,unknown
+2018,portugal ventures,venture capital,porto,portugal,unknown,unknown
+2019,powerone capital markets limited,private equity firm,toronto,canada,unknown,unknown
+2020,precursor ventures,micro vc,san francisco,usa,unknown,unknown
+2021,predictive vc,venture capital,unknown,usa,unknown,unknown
+2022,prelude ventures,venture capital,san francisco,usa,unknown,unknown
+2023,presight capital,venture capital,los angeles,usa,unknown,unknown
+2024,primera capital,venture capital,oakland,usa,paas,series a
+2025,private angel investors,angel,seattle,usa,unknown,unknown
+2026,private investors,angel,united states,unknown,unknown,unknown
+2027,prosper otemuyiwa,angel,nigeria,unknown,unknown,unknown
+2028,providence strategic growth,"private equity firm, venture capital",boston,usa,unknown,unknown
+2029,prudence,venture capital,new york,usa,unknown,unknown
+2030,pura vida investments,venture capital,new york,usa,unknown,unknown
+2031,purity star,venture capital,unknown,canada,unknown,unknown
+2032,purppl,accelerator,kelowna,canada,unknown,unknown
+2033,pycap venture partners,venture capital,toronto,canada,unknown,unknown
+2034,pyfera growth capital,"angel group, venture capital",vancouver,canada,unknown,unknown
+2035,qianhai fund of funds,private equity firm,shanzhen,china,unknown,unknown
+2036,quake capital partners,"accelerator, micro vc",austin,usa,unknown,unknown
+2037,qualgro vc,venture capital,singapore,singapore,unknown,unknown
+2038,queen city fintech,accelerator,charlotte,usa,unknown,unknown
+2039,r-labs canada inc.,incubator,toronto,canada,unknown,unknown
+2040,r8 capital,venture capital,singapore,singapore,unknown,unknown
+2041,rabobank food & agri innovation fund,venture capital,utrecht,the netherlands,unknown,unknown
+2042,radar capital,venture capital,unknown,canada,unknown,unknown
+2043,radar endeavour group,private equity firm,edmonton,canada,unknown,unknown
+2044,radicle growth,venture capital,san diego,usa,unknown,unknown
+2045,raphael danilo,angel,new york,usa,unknown,unknown
+2046,raquel urtasun,angel,boston,usa,unknown,unknown
+2047,rarebreed ventures,"micro vc, venture capital",baltimore,usa,unknown,unknown
+2048,reach,accelerator,chicago,usa,unknown,unknown
+2049,ready2launch,accelerator,halifax,canada,unknown,unknown
+2050,red house education,venture capital,new york,usa,unknown,unknown
+2051,redstone,venture capital,berlin,germany,unknown,unknown
+2052,regah ventures,venture capital,new york,usa,unknown,unknown
+2053,reinforced ventures,venture capital,pittsburgh,usa,unknown,unknown
+2054,republic capital,venture capital,new york,usa,unknown,unknown
+2055,resource capital funds,private equity firm,denver,usa,unknown,unknown
+2056,restaurant royalty partners,venture capital,unknown,usa,unknown,unknown
+2057,ret ventures,venture capital,park city,usa,unknown,unknown
+2058,revtech ventures,venture capital,dallas,usa,unknown,unknown
+2059,rhapsody venture partners,venture capital,cambridge,usa,unknown,unknown
+2060,rhianna brancato,angel,unknown,unknown,unknown,unknown
+2061,rian gauvreau,angel,vancouver,canada,unknown,unknown
+2062,richard cargill,angel,minneapolis,usa,unknown,unknown
+2063,richard cooperstein,angel,san francisco,usa,unknown,unknown
+2064,richard seibel,angel,unknown,unknown,unknown,unknown
+2065,ring capital,venture capital,paris,france,fintech,seed
+2066,risc capital,venture capital,toronto,canada,unknown,unknown
+2067,riverpark ventures,"angel group, venture capital",new york,usa,unknown,unknown
+2068,robert bosch venture capital,venture capital,stuttgart,germany,saas,series b
+2069,robert chaplinsky,angel,menlo park,usa,unknown,unknown
+2070,robert halpern,angel,unknown,unknown,unknown,unknown
+2071,robert luxenberg,angel,unknown,unknown,unknown,unknown
+2072,rock springs capital,"private equity firm, venture capital",baltimore,usa,biotech,series b
+2073,rockies venture club,angel group,denver,usa,unknown,unknown
+2074,roham gharegozlou,angel,san francisco,usa,unknown,unknown
+2075,roman zaripov,angel,unknown,unknown,unknown,unknown
+2076,ross jones,angel,unknown,unknown,unknown,unknown
+2077,rough draft ventures,micro vc,cambridge,usa,unknown,unknown
+2078,roynat capital,venture capital,toronto,canada,unknown,unknown
+2079,rse ventures,"incubator, private equity firm, venture capital",new york,usa,unknown,unknown
+2080,rubicon venture capital,micro vc,san francisco,usa,unknown,unknown
+2081,russell smith,angel,london,united kingdom,unknown,unknown
+2082,ryan chan,angel,los angeles,usa,unknown,unknown
+2083,ryan garrah,angel,markham,canada,unknown,unknown
+2084,ryan millier,angel,new york,usa,unknown,unknown
+2085,ryan sutton-gee,angel,san francisco,usa,ecommerce,seed
+2086,s28 capital,venture capital,san francisco,usa,unknown,unknown
+2087,safe x connected cities accelerator,accelerator,toronto,canada,unknown,unknown
+2088,sageview capital,private equity firm,palo alto,usa,unknown,unknown
+2089,sahil bloom,angel,unknown,unknown,unknown,unknown
+2090,saic venture capital,venture capital,las vegas,usa,unknown,unknown
+2091,sallyport investments,micro vc,unknown,usa,unknown,unknown
+2092,sam corcos,angel,new york,usa,unknown,unknown
+2093,sam parr,angel,san francisco,usa,unknown,unknown
+2094,samsung venture investment,venture capital,seocho,south korea,unknown,unknown
+2095,sanders lee,angel,calgary,canada,unknown,unknown
+2096,sandpiper group,private equity firm,vancouver,canada,unknown,unknown
+2885,sandpiper ventures,venture capital,halifax,canada,unknown,unknown
+2886,sangel capital,venture capital,shenzhen,china,unknown,unknown
+2887,sanjay malaviya,angel,unknown,unknown,unknown,unknown
+2888,sap.io,"accelerator, venture capital, incubator",san francisco,usa,hrtech,seed
+2889,scale asia ventures,venture capital,menlo park,usa,unknown,unknown
+2890,schindleram ventures,"private equity firm, venture capital",zürich,switzerland,unknown,unknown
+2891,scott lake,angel,vancouver,canada,unknown,unknown
+2892,scribble ventures,venture capital,portola valley,usa,unknown,unknown
+2893,se ventures,"venture capital, venture capital",menlo park,usa,saas,series b
+2894,secocha ventures,venture capital,miami,usa,unknown,unknown
+2895,security leadership capital,micro vc,san jose,usa,unknown,unknown
+2896,seedcamp,"micro vc, venture capital",london,united kingdom,unknown,unknown
+2897,semhal kahsay,angel,unknown,unknown,unknown,unknown
+2898,serent capital,private equity firm,san francisco,usa,unknown,unknown
+2899,"seven hound ventures, inc.",venture capital,los angeles,usa,unknown,unknown
+2900,seventrainventures,venture capital,new york,usa,unknown,unknown
+2901,seventure partners,venture capital,paris,france,unknown,unknown
+2902,sfc capital,"angel group, micro vc",london,united kingdom,unknown,unknown
+2903,sginnovate,venture capital,singapore,singapore,unknown,unknown
+2904,shane lindstrom,angel,unknown,unknown,unknown,unknown
+2905,shane mac,angel,san francisco,usa,unknown,unknown
+2906,sharon ludlow,angel,unknown,unknown,unknown,unknown
+2907,shawn carter,angel,new york,usa,unknown,unknown
+2908,sherbrooke innopole,micro vc,sherbrooke,canada,unknown,unknown
+2909,shine capital,venture capital,new york,usa,unknown,unknown
+2910,shl.vc,micro vc,unknown,usa,unknown,unknown
+2911,shore capital sports & entertainment,venture capital,toronto,canada,unknown,unknown
+2912,shrug capital,micro vc,san francisco,usa,unknown,unknown
+2913,sid sankaran,angel,unknown,unknown,unknown,unknown
+2914,siemon family,angel group,unknown,usa,unknown,unknown
+2915,silver spike capital,venture capital,unknown,usa,unknown,unknown
+2916,six squared capital,venture capital,toronto,canada,unknown,unknown
+2917,sk ventures,micro vc,san francisco,usa,unknown,unknown
+2918,sky9 capital,venture capital,shanghai,china,unknown,unknown
+2919,sl2 capital,venture capital,unknown,united kingdom,unknown,unknown
+2920,small world group,venture capital,singapore,singapore,unknown,unknown
+2921,softbank vision fund,"private equity firm, venture capital",london,united kingdom,"biotech, fintech",series c
+2922,soma capital,micro vc,san francisco,usa,"data, ecommerce",seed
+2923,sonoma brands,private equity firm,sonoma,usa,unknown,unknown
+2924,sorenson ventures,venture capital,menlo park,usa,unknown,unknown
+2925,sorfina capital,venture capital,houston,usa,unknown,unknown
+2926,space angels,angel group,new york,usa,unknown,unknown
+2927,spacecadet ventures,venture capital,new york,usa,unknown,unknown
+2928,sparklabs accelerator,accelerator,seoul,south korea,unknown,unknown
+2929,spearhead,angel group,san francisco,usa,unknown,unknown
+2930,spider capital,"micro vc, venture capital",san francisco,usa,saas,"seed, series a"
+2931,sprott inc.,"private equity firm, venture capital",toronto,canada,biotech,unknown
+2932,sprout.vc,venture capital,edmonton,canada,unknown,unknown
+2933,sri viswanath,angel,palo alto,usa,devtech,seed
+2934,sriram krishnan,angel,san francisco,usa,unknown,unknown
+2935,stacked capital,venture capital,new york,usa,unknown,unknown
+2936,stadia ventures,"accelerator, venture capital",st louis,usa,unknown,unknown
+2937,stanley park ventures,venture capital,vancouver,canada,unknown,unknown
+2938,stanley tang,angel,stanford,usa,unknown,unknown
+2939,starlight ventures,venture capital,miami,usa,unknown,unknown
+2940,startup lab,venture capital,moscow,russian federation,unknown,unknown
+2941,stcap,venture capital,palo alto,usa,unknown,unknown
+2942,steli efti,angel,san francisco,usa,unknown,unknown
+2943,stephen brennan,angel,unknown,unknown,unknown,unknown
+2944,sterling.vc,venture capital,new york,usa,unknown,unknown
+2945,steve apostolopoulos,angel,toronto,canada,unknown,unknown
+2946,steve chen,angel,san francisco,usa,unknown,unknown
+2947,steve schlafman,angel,brooklyn,usa,unknown,unknown
+2948,steve wood,angel,san francisco,usa,unknown,unknown
+2949,storm ventures,venture capital,menlo park,usa,saas,series b
+2950,streetedge capital,venture capital,san francisco,usa,unknown,unknown
+2951,subversive capital,venture capital,new york,usa,unknown,unknown
+2952,sulaiti m.,angel,unknown,unknown,unknown,unknown
+2953,sunil rajaraman,angel,san francisco,usa,unknown,unknown
+2954,svg ventures,venture capital,los gatos,usa,agtech,seed
+2955,swan venture fund,micro vc,kirkland,usa,biotech,pre-seed
+2956,swat equity partners,venture capital,new york,usa,unknown,unknown
+2957,sway ventures,venture capital,san francisco,usa,platform,seed
+2958,synovus family office,unknown,unknown,usa,agtech,series b
+2959,ta associates,private equity firm,boston,usa,unknown,unknown
+2960,ta ventures,venture capital,frankfurt,germany,unknown,unknown
+2961,"takeda ventures, inc.",venture capital,san diego,usa,unknown,unknown
+2962,taronga group,venture capital,sydney,australia,unknown,unknown
+2963,tavistock group,private equity firm,windermere,usa,healthtech,pre-seed
+2964,tcap private equity,"private equity firm, venture capital",vancouver,canada,unknown,unknown
+2965,teamworthy ventures,venture capital,new york,usa,saas,series a
+2966,tech coast angels,angel group,newport beach,usa,unknown,unknown
+2967,techfounders,accelerator,munich,germany,unknown,unknown
+2968,technology venture corporation,micro vc,moncton,canada,unknown,unknown
+2969,teligence capital,venture capital,vancouver,canada,unknown,unknown
+2970,ten coves capital,private equity firm,darien,usa,"data, saas",series b
+2971,tenoneten ventures,micro vc,los angeles,usa,platform,seed
+2972,tenx ventures,venture capital,vancouver,canada,unknown,unknown
+2973,texas halo fund,"micro vc, venture capital",houston,usa,unknown,unknown
+2974,the batchery,incubator,berkeley,usa,unknown,unknown
+2975,the catalyst capital group,private equity firm,toronto,canada,unknown,unknown
+2976,the draper richards kaplan foundation,"micro vc, venture capital",menlo park,usa,unknown,unknown
+2977,the narwhal project,accelerator,toronto,canada,unknown,unknown
+2978,the opportunity calgary investment fund,micro vc,calgary,canada,unknown,unknown
+2980,the rise fund,"private equity firm, venture capital",san francisco,usa,unknown,unknown
+2981,the sudbury catalyst fund,venture capital,unknown,canada,unknown,unknown
+2982,the summer institute,accelerator,fredericton,canada,unknown,unknown
+2983,thistledown capital,venture capital,ottawa,canada,cleantech,series e
+2984,threshold impact,"private equity firm, venture capital",unknown,canada,healthtech,unknown
+2985,tipping point partners,venture capital,new york,usa,unknown,unknown
+2986,tobyn sowden,angel,canada,unknown,unknown,unknown
+2987,tokensuite ventures,venture capital,istanbul,turkey,unknown,unknown
+2988,tom capital associates,venture capital,calgary,canada,unknown,unknown
+2989,tom colicchio,angel,unknown,unknown,unknown,unknown
+2990,tony robbins,angel,san diego,usa,unknown,unknown
+2991,tony xu,angel,san francisco,usa,unknown,unknown
+2992,top renergy venture capital,venture capital,vancouver,canada,unknown,unknown
+2993,tpg biotech,"private equity firm, venture capital",san francisco,usa,biotech,series b
+2994,transition capital partners,private equity firm,dallas,usa,retailtech,unknown
+2995,travis mcdonough,angel,halifax,canada,unknown,unknown
+2996,trend forward capital,"venture capital, venture capital",san jose,usa,unknown,unknown
+2997,triangle capital corporation,venture capital,raleigh,usa,unknown,unknown
+2998,tyler mcmullen,angel,san francisco,usa,devtech,seed
+2999,tzp group,private equity firm,new york,usa,unknown,unknown
+3000,umai global,"private equity firm, venture capital",unknown,canada,unknown,unknown
+3001,uncommon denominator,venture capital,new york,usa,unknown,unknown
+3002,underscore vc,venture capital,boston,usa,unknown,unknown
+3003,union capital,private equity firm,gîza,egypt,data,seed
+3004,union kitchen,accelerator,washington,usa,unknown,unknown
+3005,unpopular ventures,venture capital,san francisco,usa,unknown,unknown
+3006,unreasonable capital,"micro vc, venture capital",boulder,usa,unknown,unknown
+3007,up capital,venture capital,toronto,canada,unknown,unknown
+3008,uphonest capital,"micro vc, venture capital",san francisco,usa,unknown,unknown
+3009,upper90,private equity firm,new york,usa,marketplace,series b
+3010,upward,"accelerator, incubator, venture capital",new york,usa,unknown,unknown
+3011,urban-x,"accelerator, venture capital",brooklyn,usa,unknown,unknown
+3012,v3 ventures,venture capital,shawinigan,canada,unknown,unknown
+3013,vaizra capital,venture capital,new york,usa,unknown,unknown
+3014,valhalla angels,angel group,calgary,canada,platform,pre-seed
+3015,valhalla private capital,venture capital,calgary,canada,unknown,unknown
+3016,valor equity partners,"private equity firm, venture capital",chicago,usa,analytics,"series a, series b"
+3017,valor siren ventures,venture capital,unknown,usa,marketplace,series a
+3018,vantagepoint capital partners,venture capital,san bruno,usa,unknown,unknown
+3019,vantec angel network,angel group,vancouver,canada,unknown,unknown
+3020,vendep capital,venture capital,espoo,finland,unknown,unknown
+3021,vendian capital,angel,london,united kingdom,unknown,unknown
+3022,venture grade,venture capital,halifax,canada,unknown,unknown
+3023,venture university,"accelerator, venture capital",san francisco,usa,unknown,unknown
+3024,ventures platform,micro vc,abuja,nigeria,unknown,unknown
+3025,versant ventures,venture capital,menlo park,usa,unknown,unknown
+3026,vestech partners,private equity firm,ocala,usa,agtech,seed
+3027,viaduct ventures,"micro vc, venture capital",mountain view,usa,unknown,unknown
+3028,victoria treyger,angel,san francisco,usa,unknown,unknown
+3029,victory square,accelerator,vancouver,canada,unknown,unknown
+3030,victress capital,venture capital,boston,usa,unknown,unknown
+3031,vijay gill,angel,san francisco bay area,usa,devtech,seed
+3032,viking global investors,private equity firm,greenwich,usa,unknown,unknown
+3033,virgo investment group,private equity firm,redwood shores,usa,healthtech,series b
+3034,vision plus capital,venture capital,hangzhou,china,unknown,unknown
+3036,vu venture partners,venture capital,san francisco,usa,unknown,unknown
+3037,waikit lau,angel,kuala lumpur,malaysia,unknown,unknown
+3038,walter capital partners,private equity firm,westmount,canada,healthtech,series b
+3039,walter james treliving,angel,canada,unknown,unknown,unknown
+3040,walter ventures,venture capital,málaga,spain,unknown,unknown
+3041,waterpoint lane,"private equity firm, venture capital",toronto,canada,unknown,unknown
+3042,wavemaker three-sixty health,venture capital,pasadena,usa,healthtech,series a
+3043,wayfinder ventures,venture capital,san francisco,usa,unknown,unknown
+3044,wd capital markets,private equity firm,toronto,canada,fintech,series a
+3045,web smith,angel,columbus,usa,unknown,unknown
+3046,webb investment network,angel group,san francisco,usa,unknown,unknown
+3047,west coast ventures inc.,venture capital,unknown,usa,unknown,unknown
+3048,westcap mgt,"private equity firm, venture capital",saskatoon,canada,unknown,unknown
+3049,westcott llc,angel group,dallas,usa,unknown,unknown
+3050,western new york impact investment fund,venture capital,buffalo,usa,agtech,seed
+3051,western technology investment,venture capital,portola valley,usa,unknown,unknown
+3052,wgd capital,venture capital,palo alto,usa,unknown,unknown
+3053,wheatsheaf group limited,"private equity firm, venture capital",chester,united kingdom,unknown,unknown
+3054,will fuller,angel,unknown,unknown,unknown,unknown
+3055,william riggs,angel,san francisco bay area,usa,unknown,unknown
+3056,william sinclair,angel,unknown,unknown,unknown,unknown
+3057,willy schlacks,angel,columbia,usa,ecommerce,seed
+3058,wing venture capital,venture capital,menlo park,usa,unknown,unknown
+3059,wisdom llp,venture capital,los altos hills,usa,unknown,unknown
+3060,wndrco,"private equity firm, venture capital",beverly hills,usa,"cybersecurity, hrtech","series a, series b"
+3061,woodstock fund,"private equity firm, venture capital",dubai,united arab emirates,unknown,unknown
+3062,yamaha motor ventures & laboratory silicon valley,venture capital,palo alto,usa,unknown,unknown
+3063,yellow,accelerator,los angeles,usa,unknown,unknown
+3064,yellow point equity partners,private equity firm,vancouver,canada,unknown,unknown
+3065,yield ventures,venture capital,singapore,singapore,unknown,unknown
+3066,yoshua bengio,angel,montreal,canada,ai,pre-seed
+3067,zachary sims,angel,new york,usa,unknown,unknown
+3068,zbs capital,venture capital,unknown,kyiv,unknown,unknown
+3069,zee prime capital,"incubator, venture capital",bratislava,slovakia (slovak republic),unknown,unknown
+3070,zoic capital,venture capital,bellevue,usa,unknown,unknown
+3071,zola global investors,angel group,unknown,canada,unknown,unknown
+3072,on deck odx,"accelerator, vc",san francisco,usa,unknown,unknown
+3073,level 46 investments,venture capital,calgary,canada,unknown,unknown
+3074,bkr capital,venture capital,toronto,canada,unknown,unknown
