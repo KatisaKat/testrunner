@@ -502,6 +502,13 @@ app.layout = html.Div(id="everything",children=[
     html.Script(src="/assets/animation.js", defer=True),
 ])
 
+port = int(os.environ.get("PORT", 8050))
+
+# Run the app with Gunicorn on the assigned port
+if __name__ == '__main__':
+    # Gunicorn will handle the app server
+    app.run_server(debug=True, host="0.0.0.0", port=port)
+
 # Callbacks
 @app.callback(
     Output('investment-bar-chart', 'figure'),
